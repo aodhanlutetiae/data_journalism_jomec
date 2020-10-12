@@ -16,4 +16,7 @@ Open a google colaboratory notebook and print 'hello world!'
 - Data-driven stories: brainstorming guide
 - Data-driven story forms: inspiration
 
+**CONCEPTS**
+— Cleaning, Wrangling
+
 **PRACTICE**
