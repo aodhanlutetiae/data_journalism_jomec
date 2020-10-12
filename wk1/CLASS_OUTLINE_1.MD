@@ -1,7 +1,5 @@
 **PREPARATORY WORK**
 
-Watch:
-
 — [Houston, Brant. From computer-assisted reporting to computational journalism. 2019. Video](https://www.journalismfestival.com/programme/2019/computer-assisted-reporting-a-practical-guide)
 
 — [Pilhofer, Aron. Getting started with datajournalism. 2017. Video](https://www.youtube.com/watch?v=DYzDnufwHNE)
@@ -19,8 +17,11 @@ Watch:
 - Answer them
 - Use =MONTH(cell) and a pivot table to see how the 12 months compare in terms of donations
 - Explain the concentration of donations in a three-month period
+- Read the [FT piece](https://www.ft.com/content/4cbd6eae-a8ae-11e9-984c-fac8325aaa04) on Johnson's fundraising power
 
 "cardiff_weather.csv"
+— Using a pivot table:
+
 - Find the wettest October in the last 20 years
 - Find the second-wettest October in the last 20 years
 

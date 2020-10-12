@@ -11,3 +11,4 @@ This repo holds materials and weekly structure for the module MCT559 Data Journa
 **Course outline**
 
 Week 1 — Spreadsheets, pivot tables and interrogating data
+Week 2 — A story from big messy data & writing charticles
