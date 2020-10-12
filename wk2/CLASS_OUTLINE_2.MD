@@ -1,4 +1,4 @@
-** PREPARATORY WORK **
+**PREPARATORY WORK**
 
 — Do:
 Set up your own [Datawrapper](https.www.datawrapper.de/signin) account. Make a simple graph.
