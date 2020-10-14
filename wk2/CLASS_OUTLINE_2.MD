@@ -17,6 +17,18 @@ Open a google colaboratory notebook and print 'hello world!'
 - Data-driven story forms: inspiration
 
 **CONCEPTS**
-— Cleaning, Wrangling
+— Cleaning, wrangling large datasets
+— Datawrapper practice
+— Article turnaround
 
 **PRACTICE**
+"RSF_index_2020.csv"
+- pivot table revision (analysis by continent)
+
+"films_imdb_post2017.csv"
+- clean the dataset to fix duplication, incorrect datatypes, typos
+- analyse the data (30K rows) for possible newslines
+
+"Covid business charticle.pdf"
+- download the two datasets listed and produce a charticle
+- have it subedited by a classmate
