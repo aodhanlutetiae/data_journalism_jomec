@@ -1,7 +1,7 @@
 **PREPARATORY WORK**
 
 — Do:
-- Find out Tony Blair's opinion on the FOI act he introduced, and the reasons for it.
+- Find out Tony Blair's opinion on the FOI act he introduced, and the reasons for his opinion.
 - Find an FOI story from 2020
 - Figure out the difference between TSV (and variants), JSON, XML, GEOJSON, SHP.
 - In a google colaboratory notebook import pandas as pd. Assign some variables and manipulate them

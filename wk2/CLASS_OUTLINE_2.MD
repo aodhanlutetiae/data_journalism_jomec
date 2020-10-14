@@ -17,11 +17,12 @@ Open a google colaboratory notebook and print 'hello world!'
 - Data-driven story forms: inspiration
 
 **CONCEPTS**
-— Cleaning, wrangling large datasets
-— Datawrapper practice
-— Article turnaround
+- Cleaning, wrangling large datasets
+- Datawrapper practice
+- Article turnaround
 
 **PRACTICE**
+
 "RSF_index_2020.csv"
 - pivot table revision (analysis by continent)
 
