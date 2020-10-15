@@ -13,5 +13,9 @@ This is the material and weekly structure for the Data Journalism course taught 
 - Week 2 — A story from big messy data & writing charticles
 - Week 3 — Data sources (including Freedom of Information)
 - Week 4 — How to be a numerate journalist
-- Week 5 — Visualisation
+- Week 5 — Visualising data
 - Week 6 — Mapping
+
+**Assignments**
+
+These fell at the end of week 4, week 8 and just after week 12.
