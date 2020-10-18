@@ -18,6 +18,7 @@ Open a google colaboratory notebook and print 'hello world!'
 
 **CONCEPTS**
 - Cleaning, wrangling large datasets
+- More pivot tables
 - Datawrapper practice
 - Article turnaround
 
@@ -31,10 +32,10 @@ In 2010, which category made the most? How much did models make in 2013?; Which 
 - clean the dataset to fix duplication, incorrect datatypes, typos
 - analyse the data (30K rows) for possible newslines
 
-"Covid business charticle.pdf"
-- download the two datasets listed and produce a charticle
+"Covid business charticle.pdf" (file also supplied as "business_data_q3_uk.xlsx")
+- download the dataset indicated and produce a charticle
 - have it subedited by a classmate
 
 **Note**
-Source for films_imdb_post2017:
+Source for "films_imdb_post2017":
 This is a file of 30,000 films listed in IMDB. It was built from the files available [here](https://datasets.imdbws.com/). The 'basics' file of over 7 million titles was joined to the 'ratings' file, giving about 1 million titles. All adult titles were removed along with all non-films (tv series etc.) and then all titles from just the last four years were kept, giving a dataset of about 30,000 films from 2017 to 2020.
