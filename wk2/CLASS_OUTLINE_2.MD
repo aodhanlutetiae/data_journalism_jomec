@@ -11,10 +11,10 @@ Open a google colaboratory notebook and print 'hello world!'
 
 — Review:
 [NY Times data training folder](https://drive.google.com/drive/folders/1ZS57_40tWuIB7tV4APVMmTZ-5PXDwX9w?usp=sharing):
-- 7 data stories: brainstorming
-- 7 data stories: postcards
-- Data-driven stories: brainstorming guide
-- Data-driven story forms: inspiration
+- [7 data stories: brainstorming guide](https://docs.google.com/document/d/13JYB19XekRAV8rSUisZMEjSTM-XPFeRPBwhbUqiWYZQ/edit?usp=sharing)
+- [7 data stories: postcards](https://docs.google.com/presentation/d/1Z9H9Gex0dDupMZj_-W2FaW55w9nxSlThS9aVxPhWUAo/edit#slide=id.g32adbda37a_0_1686)
+- [Data-driven stories: brainstorming guide](https://docs.google.com/document/d/1-RDdV7M-Wkop3REshf3bz0hNZ5FxPoXQd91G858ZgyI/edit?usp=sharing)
+- [Data-driven story forms: examples](https://docs.google.com/document/d/1BXj0M3UYheyg0mLIUrEkg3sxHO4Q3C7qdLlh-jbYq4E/edit?usp=sharing)
 
 **CONCEPTS**
 - Cleaning, wrangling large datasets
@@ -23,8 +23,9 @@ Open a google colaboratory notebook and print 'hello world!'
 
 **PRACTICE**
 
-"RSF_index_2020.csv"
-- pivot table revision (analysis by continent)
+"Forbes celebrity richlist.csv"
+- pivot table revision
+In 2010, which category made the most? How much did models make in 2013?; Which year was the best for athletes in terms of total earnings?; We're supposed to have 15 years, with 100 people listed each year (=1500). But we have more. Get a count of number of people listed for every year; Did the top 100 make more money, on average, in 2006 or 2007?; What were the total earnings of comedians, musicians and hiphop impresarios -- taken as a single group -- in 2017?; What was the lowest-earning year for athletes?
 
 "films_imdb_post2017.csv"
 - clean the dataset to fix duplication, incorrect datatypes, typos
@@ -33,3 +34,7 @@ Open a google colaboratory notebook and print 'hello world!'
 "Covid business charticle.pdf"
 - download the two datasets listed and produce a charticle
 - have it subedited by a classmate
+
+**Note**
+Source for films_imdb_post2017:
+This is a file of 30,000 films listed in IMDB. It was built from the files available [here](https://datasets.imdbws.com/). The 'basics' file of over 7 million titles was joined to the 'ratings' file, giving about 1 million titles. All adult titles were removed along with all non-films (tv series etc.) and then all titles from just the last four years were kept, giving a dataset of about 30,000 films from 2017 to 2020.
