@@ -24,9 +24,8 @@ Open a google colaboratory notebook and print 'hello world!'
 
 **PRACTICE**
 
-"Forbes celebrity richlist.csv"
+"richest_athletes_1990-2020"
 - pivot table revision
-In 2010, which category made the most? How much did models make in 2013?; Which year was the best for athletes in terms of total earnings?; We're supposed to have 15 years, with 100 people listed each year (=1500). But we have more. Get a count of number of people listed for every year; Did the top 100 make more money, on average, in 2006 or 2007?; What were the total earnings of comedians, musicians and hiphop impresarios -- taken as a single group -- in 2017?; What was the lowest-earning year for athletes?
 
 "films_imdb_post2017.csv"
 - clean the dataset to fix duplication, incorrect datatypes, typos
@@ -38,4 +37,4 @@ In 2010, which category made the most? How much did models make in 2013?; Which 
 
 **Note**
 Source for "films_imdb_post2017":
-This is a file of 30,000 films listed in IMDB. It was built from the files available [here](https://datasets.imdbws.com/). The 'basics' file of over 7 million titles was joined to the 'ratings' file, giving about 1 million titles. All adult titles were removed along with all non-films (tv series etc.) and then all titles from just the last four years were kept, giving a dataset of about 30,000 films from 2017 to 2020.
+This is a file of 30,000 films listed in IMDB. It was built from the files available [here](https://datasets.imdbws.com/). The 'basics' file of over 7 million titles was joined to the 'ratings' file, giving about 1 million titles. All adult titles were removed along with all non-films (tv series etc.) and then all titles from just the last four years were kept, giving a dataset of about 30,000 films from 2017 to 2020 (although note that 2020 carries less data as the year is not over yet and also possibly because production has been slowed by the pandemic).
