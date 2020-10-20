@@ -1,7 +1,8 @@
 **PREPARATORY WORK**
 
 Do
-- Install requests, beautiful soup, lxml
+- Install requests, beautiful soup, lxml, scrapy
+- Install free versions of Openrefine and Outwithub
 
 Read
 - ethics etc.
@@ -10,17 +11,25 @@ Read
 **CONCEPTS**
 
 - Case studies: how and why journalists scrape
+- =IMPORTHTML, GUIs, Openrefine, Outwithub
 - Headers
 - Ethical scraping
+- Plotting scraping using pseudocode
 - AJAX and rendering client side
-- Spiders via scrapy?
+- Spiders via Scrapy
 
 **PRACTICE**
 
 Scrape [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 for basic staff contact info
 
+Scrape a selection of [the BBC's 2019 UK election results](https://www.bbc.co.uk/news/politics/constituencies/E14000546) using constituency codes
+
 Scrape [Register of Members' Financial Interests](https://publications.parliament.uk/pa/cm/cmregmem/201012/contents.htm)
 1. List of the Members
 2. A single Member
-3. Three consecutive members
+3. Three consecutive Members
+
+Scrape a dynamic webpage
+
+Build a pipline using Scrapy
