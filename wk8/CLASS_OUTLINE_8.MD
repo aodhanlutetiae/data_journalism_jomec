@@ -13,7 +13,7 @@ Read
 - Case studies: how and why journalists scrape
 - =IMPORTHTML, GUIs, Openrefine, Outwithub
 - Headers
-- Ethical scraping
+- Ethical & legal scraping
 - Plotting scraping using pseudocode
 - AJAX and rendering client side
 - Spiders via Scrapy
@@ -30,6 +30,8 @@ Scrape [Register of Members' Financial Interests](https://publications.parliamen
 2. A single Member
 3. Three consecutive Members
 
+Locate dynamically loading audiovisual files
+
 Scrape a dynamic webpage
 
-Build a pipline using Scrapy
+Build a pipeline using Scrapy

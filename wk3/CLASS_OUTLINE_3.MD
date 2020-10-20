@@ -14,3 +14,16 @@
 
 - Background of FOIA
 - Workings of FOIA
+
+**PRACTICE**
+
+1. Visit [Whatdotheyknow](https://www.whatdotheyknow.com/) and find three potentially useful datasets
+
+2. Brainstorm three FOI requests you might make about:
+- Council *staff* (e.g how many sick days did Council staff use last year?)
+- Municipal libraries
+Now compare with the Claire Miller's [Great Big List](http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/)
+
+3. Find the data source online that supplies the following data:
+
+- Using one of the datasets in 3, and the NYT brainstorming questions, interrogate one of the datasets for potential newslines or lines of investigation.
