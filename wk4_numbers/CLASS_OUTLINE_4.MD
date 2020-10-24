@@ -15,3 +15,7 @@
 - Correlation
 - Risk
 - Guesstimation, scale
+
+**HOMEWORK**
+
+[Stray, Jonathan. Drawing conclusions from data. Video, 2013.](https://www.youtube.com/watch?v=3NuyRKNkBQg)

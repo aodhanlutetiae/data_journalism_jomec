@@ -14,7 +14,9 @@ This is the material and weekly structure for the Data Journalism course taught 
 - Week 3 — Data sources (including Freedom of Information)
 - Week 4 — How to be a numerate journalist
 - Week 5 — Visualising data
-- Week 6 — Mapping
+- Week 6 — Mapping stories
+- Week 7
+- Week 8 — Scraping for journalism
 
 **Assignments**
 

@@ -26,4 +26,14 @@ Now compare with the Claire Miller's [Great Big List](http://clairemiller.net/bl
 
 3. Find the data source online that supplies the following data:
 
+— Rough daily rate of fridges / white goods dumped in Cardiff over the last ten years
+— Number of bike thefts recorded by South Wales police (in year ending March 2020)
+— Most popular name for baby boys in Anglesey & baby girls in Ceredigion last year
+— Number of sheep in Powys over the last ten years
+— Were more students getting free school meals last year in Newport or Caerphilly?
+— Total number of CCTV cameras in Cardiff (with rough locations)
+— How many entries in IMDB mention Wales or Welsh?
+— Football banning orders going up / down in England & Wales + why people are arrested
+
+
 - Using one of the datasets in 3, and the NYT brainstorming questions, interrogate one of the datasets for potential newslines or lines of investigation.
