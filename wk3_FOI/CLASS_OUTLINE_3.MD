@@ -36,4 +36,4 @@ Now compare with the Claire Miller's [Great Big List](http://clairemiller.net/bl
 — Football banning orders going up / down in England & Wales + why people are arrested
 
 
-- Using one of the datasets in 3, and the NYT brainstorming questions, interrogate one of the datasets for potential newslines or lines of investigation.
+4. Using one of the datasets in 3, and the NYT brainstorming questions, interrogate one of the datasets for potential newslines or lines of investigation.
