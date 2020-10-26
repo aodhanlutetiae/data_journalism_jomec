@@ -17,5 +17,5 @@
 - Guesstimation, scale
 
 **HOMEWORK**
-- McNae, "The Freedom of Information Acgt 2000, p. 401-09
+
 [Stray, Jonathan. Drawing conclusions from data. Video, 2013.](https://www.youtube.com/watch?v=3NuyRKNkBQg)
