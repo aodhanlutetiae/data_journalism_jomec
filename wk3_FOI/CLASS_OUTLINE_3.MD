@@ -15,6 +15,7 @@
 
 - Background of FOIA
 - Workings of FOIA
+- JSON datafiles
 
 **PRACTICE**
 
@@ -37,3 +38,10 @@ Now compare with the Claire Miller's [Great Big List](http://clairemiller.net/bl
 — Football banning orders going up / down in England & Wales + why people are arrested
 
 4. Using one of the datasets in 3, and the NYT brainstorming questions, interrogate one of the datasets for potential newslines or lines of investigation.
+
+5. Read [FOI appeal going to tribunal](https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances)
+
+**DATASET PRACTICE**
+- [Lists of 8,000 petitions sent to parliament, 2017-19 (csv)](https://petition.parliament.uk/archived/petitions?parliament=3&state=published)
+
+- [Details on a single petition (JSON)](https://petition.parliament.uk/archived/petitions/200165)

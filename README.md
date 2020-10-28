@@ -7,6 +7,7 @@ This is the material and weekly structure for the Data Journalism course taught 
 **Course resources**
 - [Reading list](https://docs.google.com/document/d/15dNzLex3VdkcRjcXvyc8mKoXOFhBJHl2kVZeCUICLfQ/edit?usp=sharing)
 - [Random datasets list](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
+- [Quite a few Python tutorials, thanks to the good people at Datacamp.com](https://learn.datacamp.com/)
 
 **Course outline**
 - Week 1 — Spreadsheets, pivot tables and interrogating data

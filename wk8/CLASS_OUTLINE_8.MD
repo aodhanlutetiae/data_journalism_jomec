@@ -23,6 +23,8 @@ Read
 Scrape [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 for basic staff contact info
 
+Scrape [this Wales Brexit website without any datafile](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
+
 Scrape a selection of [the BBC's 2019 UK election results](https://www.bbc.co.uk/news/politics/constituencies/E14000546) using constituency codes
 
 Scrape [Register of Members' Financial Interests](https://publications.parliament.uk/pa/cm/cmregmem/201012/contents.htm)
