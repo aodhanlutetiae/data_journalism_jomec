@@ -29,10 +29,10 @@ Install Anaconda and have Jupyter Notebook running
 **PRACTICE**
 
 Review these stories
-[NHS to lose 50,000 jobs](https://www.bbc.co.uk/news/uk-england-london-12548153)
-[Town hall bans staff from using Facebook after they waste 572 hours in ONE month](https://www.dailymail.co.uk/news/article-1210361/Town-hall-bans-staff-using-Facebook-waste-572-hours-month.html)
-[Nearly two-thirds of US young adults unaware 6m Jews killed in the Holocaust](https://www.theguardian.com/world/2020/sep/16/holocaust-us-adults-study)
-[Call for law change over increase in homophobic hate crimes in London](https://www.bbc.co.uk/news/uk-england-london-51049336)
+— [NHS to lose 50,000 jobs](https://www.bbc.co.uk/news/uk-england-london-12548153)
+— [Town hall bans staff from using Facebook after they waste 572 hours in ONE month](https://www.dailymail.co.uk/news/article-1210361/Town-hall-bans-staff-using-Facebook-waste-572-hours-month.html)
+— [Nearly two-thirds of US young adults unaware 6m Jews killed in the Holocaust](https://www.theguardian.com/world/2020/sep/16/holocaust-us-adults-study)
+— [Call for law change over increase in homophobic hate crimes in London](https://www.bbc.co.uk/news/uk-england-london-51049336)
 
 Analyse this data
 - exam_scores.csv (calculate standard dev (pop) for the two series of exam results)
