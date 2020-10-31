@@ -8,23 +8,20 @@ Install Anaconda and have Jupyter Notebook running
 
 — Read (before or after class), in this order:
 
-Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing through a world of numbers*, Profile, 2008. "Chapter 1. Size" & "Chapter 2. Counting" or the entire book.
-
-Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020. "Chapter 2. Personal Experience".
-
-Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh*t. The art of scepticism in a data-driven world*. Allen Lane, 2020. "Chapter 4. Causality" & "Chapter 10. Spotting Bullshit".
-
-Spiegelhalter, David. *The Art of Statistics. Learning from Data*. Pelican, 2019. "Chapter 2. Lots of numbers".
+- Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing through a world of numbers*, Profile, 2008. "Chapter 1. Size" & "Chapter 2. Counting" or the entire book.
+- Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020. "Chapter 2. Personal Experience".
+- Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of scepticism in a data-driven world*. Allen Lane, 2020. "Chapter 4. Causality" & "Chapter 10. Spotting Bullshit".
+- Spiegelhalter, David. *The Art of Statistics. Learning from Data*. Pelican, 2019. "Chapter 2. Lots of numbers".
 
 
 **CONCEPTS**
 - Size & scale, guesstimation
-- Mean, median & mode and avoiding their pitfalls
+- Mean, median & mode and avoiding related pitfalls
 - 'Experiential' averages
 - Disperson: range, quartiles & standard deviation
 - Correlation: using and graphing Pearson, avoiding causal assumptions
-- Counting
-- Percentages
+- Counting: defining the thing, questionnaires, crime stats
+- Percentages: advantages & disadvantages
 
 [Not covered: risk & probability, graphs, log scales]
 
