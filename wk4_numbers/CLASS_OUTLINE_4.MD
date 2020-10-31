@@ -25,6 +25,7 @@ Install Anaconda and have Jupyter Notebook running
 
 [Not covered: risk & probability, graphs, log scales]
 
+
 **PRACTICE**
 
 Review these stories
@@ -37,8 +38,5 @@ Analyse this data
 - exam_scores.csv (calculate standard dev (pop) for the two series of exam results)
 - age_data.csv (calculate and plot correlation for video gaming (-1.0) & exercise (1.0) against age)
 - storks_data.csv (calculate correlation for quantity of storks (pairs) and numbers of babies)
-- EPL_2018_19original (calculate and plot correlation goals and revenue in EPL 2018-19)
+- EPL_2018_19.csv (calculate and plot correlation goals and revenue in EPL 2018-19)
 - pub_licences.csv (find county with biggest drop in pubs, absolute and relative, between 2011 and 2018)
-
-**HOMEWORK**
-None. Assignment 1 due this week.
