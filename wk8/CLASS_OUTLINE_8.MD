@@ -14,6 +14,8 @@ Read
 - =IMPORTHTML, GUIs, Openrefine, Outwithub
 - Headers
 - Ethical & legal scraping
+- Requests + Beautiful soup
+- Xpath for parsing
 - Plotting scraping using pseudocode
 - AJAX and rendering client side
 - Spiders via Scrapy
@@ -22,6 +24,9 @@ Read
 
 Scrape [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 for basic staff contact info
+
+[Cardiff potholes?](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
+[Cardiff bookies](https://www.yell.com/ucs/UcsSearchAction.do?keywords=Bookmakers&location=cardiff%2C+United+Kingdom&scrambleSeed=1005010098)
 
 Scrape [this Wales Brexit website without any datafile](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
 

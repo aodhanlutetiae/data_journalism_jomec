@@ -23,7 +23,7 @@ Install Anaconda and have Jupyter Notebook running
 - Counting: defining the thing, questionnaires, crime stats
 - Percentages: advantages & disadvantages
 
-[Not covered: risk & probability, graphs, log scales]
+[Not covered: risk & probability, sampling, graphs, log scales]
 
 
 **PRACTICE**
