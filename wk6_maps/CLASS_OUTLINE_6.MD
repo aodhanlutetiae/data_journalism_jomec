@@ -1,3 +1,0 @@
-**PREPARATORY WORK**
-
-**CONCEPTS**
