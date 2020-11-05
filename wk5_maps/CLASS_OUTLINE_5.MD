@@ -8,18 +8,15 @@
 
 **CONCEPTS**
 
-- latitude & longitude, projection
-- geodata filetypes (KML, shp files, geojson)
-- UK areas (country, constituency, county, local authority, unitary authority, output area, super output area, electoral ward, lower layer super output area)
-- Googlemaps, Datawrapper, Tableau, Carto, QGIS
-- Python mapping modules
+- latitude & longitude, xy coordinates, projection
+- geodata filetypes (KML & KMZ & GML, shp, geojson)
+- Boundaries Wales (Police & emergency services, Rugby regions, Senedd regions, NHS boards & trusts, Unitary authorities, UK & Senedd constituencies, Electoral wards, Communities (parishes), Output areas, Super Output areas)
+- Googlemaps, OSM, Datawrapper, Flourish,
+- Tableau, Carto, QGIS
+- Python mapping modules (geopandas, folium, geojson)
 
 **PRACTICE**
 
 - Choropleth of parliamentary petition signatures
 - Points map of John Snow's cholera map
 - Route map of Ukrainian plane that crashed in Iran / London marathon
-
-**HOMEWORK**
-
-Identify a potential map-based or geo-data driven story
