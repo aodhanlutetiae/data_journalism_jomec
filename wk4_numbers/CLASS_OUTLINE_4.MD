@@ -4,7 +4,7 @@
 [Lievesley, Denise. A guide to statistics for journalists. Reuters Institute, 2020. 1 hr. Video.](https://www.youtube.com/watch?v=_qioPxHuk0U)
 
 — Do:
-Install Anaconda and have Jupyter Notebook running
+Install Anaconda and have Jupyter Notebook running. Import pandas.
 
 — Read (before or after class), in this order:
 
@@ -23,12 +23,12 @@ Install Anaconda and have Jupyter Notebook running
 - Counting: defining the thing, questionnaires, crime stats
 - Percentages: advantages & disadvantages
 
-[Not covered: risk & probability, sampling, graphs, log scales]
+[Not covered: statistical tests, risk & probability, sampling, graphs, log scales]
 
 
 **PRACTICE**
 
-Review these stories
+Review these stories - how can they be improved numerically?
 
 - [NHS to lose 50,000 jobs](https://www.bbc.co.uk/news/uk-england-london-12548153)
 
@@ -39,8 +39,14 @@ Review these stories
 - [Call for law change over increase in homophobic hate crimes in London](https://www.bbc.co.uk/news/uk-england-london-51049336)
 
 Analyse this data
+
 - exam_scores.csv (calculate standard dev (pop) for the two series of exam results)
 - age_data.csv (calculate and plot correlation for video gaming (-1.0) & exercise (1.0) against age)
 - storks_data.csv (calculate correlation for quantity of storks (pairs) and numbers of babies)
 - EPL_2018_19.csv (calculate and plot correlation goals and revenue in EPL 2018-19)
 - pub_licences.csv (find county with biggest drop in pubs, absolute and relative, between 2011 and 2018)
+
+Import these datasets into a Jupyter notebook and do initial interrogation using pandas
+
+- all_US_candidates_2020.csv
+- titanic_complete_clean_1309.csv
