@@ -42,6 +42,6 @@ Now compare with the Claire Miller's [Great Big List](http://clairemiller.net/bl
 5. Read [FOI appeal going to tribunal](https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances)
 
 **DATASET PRACTICE**
-- [Lists of 8,000 petitions sent to parliament, 2017-19 (csv)](https://petition.parliament.uk/archived/petitions?parliament=3&state=published)
+- [Lists of 8,000 petitions sent to parliament, all-petitions-2017–2019.csv](https://petition.parliament.uk/archived/petitions?parliament=3&state=published)
 
-- [Details on a single petition (JSON)](https://petition.parliament.uk/archived/petitions/200165)
+- [Details on a single petition, leave_eu_petition.json](https://petition.parliament.uk/archived/petitions/200165)
