@@ -17,13 +17,13 @@ This is the material and weekly structure for the Data Journalism course taught 
 - Week 4 — How to be a numerate journalist
 - Week 5 — Mapping stories
 - Week 6 — Visualising data
-- Week 7 - APIs
+- Week 7 — APIs
 - Week 8 — Scraping for journalism
-- Week 9 - Ethical & Legal
-- Week 10 - SQL
+- Week 9 — Ethical & Legal
+- Week 10 — SQL
 
-- Week 11 - Stories
-- Week 12 - Stories
+- Week 11 — Stories
+- Week 12 — Stories
 
 
 **Assignments**
