@@ -32,6 +32,7 @@
 - Build a Tableau points map of English Premier League stadiums and goals scored 2018-19 (EPL_201819_rev_stad.csv)
 
 **HOMEWORK (Colab notebooks supplied)**
+
 - Line map. Construct a line map of flight PS752 downed in Iran from ps752.csv (gathered [here](https://www.flightradar24.com/blog/ukrainian-flight-ps752-crashes-shortly-after-take-off-from-tehran/)) (notebook using mplleaflet, folium, matplotlib)
 - Points map. Construct a points map of several sport facilities in Cardiff (notebook using shapefiles, geopandas)
 
