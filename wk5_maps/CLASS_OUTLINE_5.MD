@@ -33,7 +33,7 @@
 
 **HOMEWORK (Colab notebooks supplied)**
 - Line map. Construct a line map of flight PS752 downed in Iran from ps752.csv (gathered [here](https://www.flightradar24.com/blog/ukrainian-flight-ps752-crashes-shortly-after-take-off-from-tehran/)) (notebook using mplleaflet, folium, matplotlib)
-- Points map. Construct a points map of several sport facilities in Cardiff (notebook using shapefiles)
+- Points map. Construct a points map of several sport facilities in Cardiff (notebook using shapefiles, geopandas)
 
 [Not covered: Animation, Realtime updating, Python modules: geoplotlib, cartopy, geojson, geopandas, descartes, gmaps, gpxpy]
 
