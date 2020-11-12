@@ -1,18 +1,17 @@
 **PREPARATORY WORK**
 
-- Watch:
+— Watch:
 [Hans Rosling video](https://www.youtube.com/watch?v=hVimVzgtD6w)
-[Great Debtris video?](https://www.youtube.com/watch?v=qqOJTwI3oVQ)
 
-- Read:
+— Read:
 [Stevens, Harry. "Why outbreaks like Coronavirus spread exponentially and how to "flatten the curve". The Washington Post, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
-- Review:
+— Review:
 - [Pudding](https://pudding.cool/)
 - [Pudding hitlist, 2019](https://pudding.cool/process/pudding-cup-2019/)
 - [Information is beautiful, 2019](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards)
 - [Economist 'mistakes', 2019](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
-- [2020 selection](https://www.visualisingdata.com/2020/09/best-of-the-visualisation-web-may-2020/)
+- [Visualising Data 2020 selection](https://www.visualisingdata.com/2020/09/best-of-the-visualisation-web-may-2020/)
 
 **CONCEPTS**
 
@@ -29,6 +28,11 @@
 
 **PRACTICE**
 
+-
+-
+-
+-
+
 
 **FURTHER RESOURCES**
 
@@ -36,4 +40,4 @@
 - [Datacamp course on matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 - [Kaggle introductory course for data visualisation](https://www.kaggle.com/learn/data-visualization)
 - [LSE blogpost on logarithmic scales](https://blogs.lse.ac.uk/covid19/2020/05/19/the-public-doesnt-understand-logarithmic-graphs-often-used-to-portray-covid-19/)
-- [Datacamp course on python statistical visulisation (seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-in-python)
+- [Datacamp course on python statistical visualisation (seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-in-python)

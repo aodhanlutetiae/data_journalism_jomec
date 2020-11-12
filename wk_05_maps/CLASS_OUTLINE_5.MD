@@ -1,6 +1,9 @@
 **PREPARATORY WORK**
 
-— Do: get Tableau Desktop / Public running, get Carto login (via github education), install QGIS 3.10, get Datawrapper and Flourish accounts
+— Do:
+- get Tableau Desktop / Public running
+- get Carto login (via github education)
+- install QGIS 3.10, get Datawrapper and Flourish accounts
 
 — Read:
 - [Ericson, Matthew. When maps shouldn’t be maps. Blogpost. 2011.](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/ )
