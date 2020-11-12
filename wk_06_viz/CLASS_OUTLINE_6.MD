@@ -18,7 +18,7 @@
 - Visualisation for data exploration
 - Statistical graphs: Histograms, boxplots, the Anscombe graphs
 - Hand-drawn visualisation: [Mona Chalabi's instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
-- Visualisation ethics (truncated & log y-axes, colour blindness, pink & blue, circle size & aspect ratio, editorial)
+- Checklist & Visualisation ethics (truncated & log y-axes, colour blindness, pink & blue, circle size & aspect ratio, editorial)
 - Tools: Datawrapper, Flourish, Tableau
 - Python visualisation libraries (pandas, matplotlib, seaborn)
 - Python embeddable visualisation libraries (bokeh, plotly, pygal)
