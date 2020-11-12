@@ -42,3 +42,5 @@ Locate dynamically loading audiovisual files
 Scrape a dynamic webpage
 
 Build a pipeline using Scrapy
+
+**RESOURCES**

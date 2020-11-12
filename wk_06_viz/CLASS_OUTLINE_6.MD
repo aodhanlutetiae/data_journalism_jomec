@@ -24,7 +24,7 @@
 - Python embeddable visualisation libraries (bokeh, plotly, pygal)
 - Smaller tools: [Knight centre tools](https://knightlab.northwestern.edu/), [Google gifmaker](https://datagifmaker.withgoogle.com/)
 
-[Not done: graph theory]
+[Not covered: graph theory]
 
 **PRACTICE**
 
