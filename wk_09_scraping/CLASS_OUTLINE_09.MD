@@ -2,23 +2,25 @@
 
 Do
 - Install requests, beautiful soup, lxml, scrapy
-- Install free versions of Openrefine and Outwithub
 
-Read
-- ethics etc.
-- case studies
+Review case studies (why and how journalists scrape)
+- story 1
+- story 2
+- story 3
 
 **CONCEPTS**
 
-- Case studies: how and why journalists scrape
-- =IMPORTHTML, GUIs, Openrefine, Outwithub
+- =IMPORTHTML
 - Headers
 - Ethical & legal scraping
-- Requests + Beautiful soup
-- Xpath for parsing
+- Requests
+- Beautiful soup and Xpath for parsing
 - Plotting scraping using pseudocode
 - AJAX and rendering client side
 - Spiders via Scrapy
+
+[Not covered: GUIs, Openrefine, Outwithub]
+
 
 **PRACTICE**
 
@@ -36,6 +38,8 @@ Scrape [Register of Members' Financial Interests](https://publications.parliamen
 1. List of the Members
 2. A single Member
 3. Three consecutive Members
+
+Do a bit of the Bloomberg scrape?
 
 Locate dynamically loading audiovisual files
 

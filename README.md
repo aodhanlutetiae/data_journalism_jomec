@@ -7,7 +7,7 @@ This is the material and weekly structure for the Data Journalism course taught 
 **Course resources**
 - [Reading list](https://docs.google.com/document/d/15dNzLex3VdkcRjcXvyc8mKoXOFhBJHl2kVZeCUICLfQ/edit?usp=sharing)
 - [Random datasets list](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
-- [Quite a few Python tutorials, thanks to the good people at Datacamp.com](https://learn.datacamp.com/)
+- [Quite a few Python tutorials, thanks to the good people at Datacamp.com](https://learn.datacamp.com/search?q=python)
 
 **Course outline**
 
@@ -17,13 +17,13 @@ This is the material and weekly structure for the Data Journalism course taught 
 - Week 4 — How to be a numerate journalist
 - Week 5 — Mapping stories
 - Week 6 — Visualising data
-- Week 7 — APIs
-- Week 8 — Scraping for journalism
-- Week 9 — Ethical & Legal
-- Week 10 — SQL
+- Week 7 — **PRACTICE
+- Week 8 — APIs
+- Week 9 — Scraping for journalism
+- Week 10 — Ethical & Legal
+- Week 11 — SQL
+- Week 12 — **PRACTICE
 
-- Week 11 — Stories
-- Week 12 — Stories
 
 
 **Assignments**
