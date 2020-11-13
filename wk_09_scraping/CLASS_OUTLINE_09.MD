@@ -1,25 +1,27 @@
 **PREPARATORY WORK**
 
-Do
-- Install requests, beautiful soup, lxml, scrapy
+— Do
+- Test for / Install requests, beautiful soup, gazpacho, lxml, scrapy, selenium for notebooks
+- On Chrome install plugins: Web scraper, Scraper, Downthemall
 
-Review case studies (why and how journalists scrape)
-- story 1
-- story 2
-- story 3
+— Review case studies
+- [Heathrow noise complaint every five minutes](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
+- [World Cup 2018: France won but how did Ligue 1 fare?](https://www.dw.com/en/world-cup-2018-france-won-but-how-did-ligue-1-fare/a-44705606) & [code](https://github.com/dw-data/wm2018?utm_source=sendinblue&utm_campaign=back_up_copy_Conversations_with_Data_October_scraping)
+- [UK election results 2019](https://github.com/aodhanlutetiae/uk_election_2019)
+- [Rail fares increases: charts explain passengers' frustration](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
 
 **CONCEPTS**
 
-- =IMPORTHTML
+- =IMPORTHTML(): tables, 'ol's, 'ul's & =IMPORTXML(): xpath & =IMPORTFEED()
 - Headers
 - Ethical & legal scraping
 - Requests
 - Beautiful soup and Xpath for parsing
-- Plotting scraping using pseudocode
-- AJAX and rendering client side
 - Spiders via Scrapy
+- AJAX and rendering client side (selenium)
+- scraping data from viz and maps
 
-[Not covered: GUIs, Openrefine, Outwithub]
+[Not covered: GUIs / plugins, Openrefine, Outwithub]
 
 
 **PRACTICE**
@@ -47,4 +49,9 @@ Scrape a dynamic webpage
 
 Build a pipeline using Scrapy
 
+Scrape the Lords? all 800+
+
+
 **RESOURCES**
+
+[Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
