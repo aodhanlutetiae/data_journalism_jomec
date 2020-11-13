@@ -4,7 +4,7 @@
 - Test for / Install requests, beautiful soup, gazpacho, lxml, scrapy, selenium for notebooks
 - On Chrome install plugins: Web scraper, Scraper, Downthemall
 
-— Review case studies
+— Review case studies of scraping for journalism
 - [Heathrow noise complaint every five minutes](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
 - [World Cup 2018: France won but how did Ligue 1 fare?](https://www.dw.com/en/world-cup-2018-france-won-but-how-did-ligue-1-fare/a-44705606) & [code](https://github.com/dw-data/wm2018?utm_source=sendinblue&utm_campaign=back_up_copy_Conversations_with_Data_October_scraping)
 - [UK election results 2019](https://github.com/aodhanlutetiae/uk_election_2019)
@@ -45,13 +45,13 @@ Do a bit of the Bloomberg scrape?
 
 Locate dynamically loading audiovisual files
 
-Scrape a dynamic webpage
-
 Build a pipeline using Scrapy
 
 Scrape the Lords? all 800+
 
+Scrape a dynamic webpage
+
 
 **RESOURCES**
 
-[Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
+- [Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
