@@ -21,21 +21,22 @@
 - Checklist & Visualisation ethics (truncated & log y-axes, colour blindness, pink & blue, circle size & aspect ratio, editorial)
 - Tools: Datawrapper, Flourish, Tableau
 - Python visualisation libraries (pandas, matplotlib, seaborn)
-- Python embeddable visualisation libraries (bokeh, plotly, pygal)
 - Smaller tools: [Knight centre tools](https://knightlab.northwestern.edu/), [Google gifmaker](https://datagifmaker.withgoogle.com/)
 
-[Not covered: graph theory]
+[Not covered: graph theory, some python libraries (bokeh, plotly, pygal)]
 
 **PRACTICE**
 
--
--
--
--
+- [Cardiff food safety ratings](https://ratings.food.gov.uk/OpenDataFiles/FHRS556en-GB.xml)
+- [Wales A&E waiting times, Jan-Feb 2019 vs 2020](https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Waiting-Times/Accident-and-Emergency/performanceagainst4hourwaitingtimestarget-by-hospital)
+- Python notebook 1 (colouring dfs, the Anscombe datasets)
+- Python notebook 2 (pandas, matplotlib, seaborn / boxplots, histograms, scatterplots, barcharts, linegraphs)
 
 
 **FURTHER RESOURCES**
 
+- [Complete guide to data visualisation with Python, Albert Sanchez-Lafuente](https://towardsdatascience.com/complete-guide-to-data-visualization-with-python-2dd74df12b5e)
+- [Introduction to data visualisation in Python, Gilbert Tanner](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
 - [Cisneros, Mike. Picking the right colors.](http://www.storytellingwithdata.com/blog/2020/5/6/picking-the-right-colors)
 - [Datacamp course on matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 - [Kaggle introductory course for data visualisation](https://www.kaggle.com/learn/data-visualization)

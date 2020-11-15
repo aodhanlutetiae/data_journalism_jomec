@@ -1,9 +1,9 @@
 
 — Do
-- Get an online Postman account (Chrome plugin now deprecated)
 - Revise JSON & XML formats and dictionaries
 - Get an API key for *************
 - Pip install this wrapper: *******
+
 
 — Read
 - [APIs for journalism, Datajournalism.com](https://datajournalism.com/read/newsletters/apis-for-journalism)
@@ -15,8 +15,9 @@
 - Easy access
 - API keys
 - OAuth authentication
-- Terminology: endpoint(url), method,
+- Terminology: endpoint("=url"), REST API, methods, keys, limits
 - API wrappers
+- Postman
 
 
 **PRACTICE**
@@ -34,8 +35,10 @@
 - [UK Covid data](https://coronavirus.data.gov.uk/details/developers-guide)
 - [UK Met office](https://www.metoffice.gov.uk/services/data/datapoint)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
-- [Star Wars API](https://swapi.dev/)
+- [Star Wars](https://swapi.dev/)
 - [Open Notify](http://open-notify.org/Open-Notify-API/)
+- [UK data election](https://candidates.democracyclub.org.uk/api/docs/next/)
+- [UK food hygiene](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 
 
 **RESOURCES**
@@ -46,3 +49,4 @@
 - [Gentle guide to APIs for data journalists by Jake Kara](https://medium.com/trendct-data/a-gentle-guide-to-apis-for-data-journalists-2a6b0e6fcc1a)
 - [Brian Cooksey API guide](https://zapier.com/learn/apis/)
 - [Introduction: API queries about the ISS](https://www.dataquest.io/blog/python-api-tutorial/)
+- [Postman API intro video](https://www.youtube.com/watch?v=FjgYtQK_zLE)

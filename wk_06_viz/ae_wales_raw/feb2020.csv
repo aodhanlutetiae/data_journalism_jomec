@@ -1,0 +1,108 @@
+"Health and social care > NHS hospital waiting times > Accident and emergency > Performance against 4 hour waiting times target by hospital"
+""
+
+Filters:
+Date: February 2020
+Target: 4 hour target
+
+"","","","","Total attendances ","Attendances where patients spend less than the target time in A&E (8)","Percentage of patients who spend less than the target time in A&E (9)"
+"Wales ","","","",78123,58329,74.663
+"Wales ","Betsi Cadwaladr University Health Board ","","",17629,11154,63.2707
+"","Betsi Cadwaladr University Health Board ","Major A&E Departments (1)","",13038,6570,50.3911
+"","","Major A&E Departments (1)","Wrexham Maelor Hospital ",4870,1997,41.0061
+"","","","Ysbyty Glan Clwyd ",4324,2453,56.7298
+"","","","Ysbyty Gwynedd ",3844,2120,55.1508
+"","","Other A&E/Minor Injury Units (2)","",4591,4584,99.8475
+"","","Other A&E/Minor Injury Units (2)","Llandudno General Hospital ",1165,1158,99.3991
+"","","","Betsi Cadwaladr University LHB MIUs (3)",3426,3426,100
+"","Powys Teaching Health Board ","Other A&E/Minor Injury Units (2)","Powys Teaching LHB MIUs ",1328,1328,100
+"","Hywel Dda University Health Board ","","",11341,9088,80.134
+"","Hywel Dda University Health Board ","Major A&E Departments (1)","",8613,6527,75.7807
+"","","Major A&E Departments (1)","Bronglais General Hospital ",2290,1908,83.3187
+"","","","Glangwili General Hospital (4)",3446,2514,72.9541
+"","","","Withybush General Hospital ",2877,2105,73.1664
+"","","Other A&E/Minor Injury Units (2)","",2728,2561,93.8782
+"","","Other A&E/Minor Injury Units (2)","Prince Philip Hospital ",2160,1993,92.2685
+"","","","Hywel Dda LHB MIUs (5)",568,568,100
+"","Swansea Bay University LHB&#10; (6)","","",9142,6772,74.0756
+"","Swansea Bay University LHB&#10; (6)","Major A&E Departments (1)","Morriston Hospital ",6400,4065,63.5156
+"","","Other A&E/Minor Injury Units (2)","",2742,2707,98.7235
+"","","Other A&E/Minor Injury Units (2)","Neath Port Talbot Hospital ",2742,2707,98.7235
+"","","","Singleton Hospital ",".",".","."
+"","Abertawe Bro Morgannwg University Health Board (6)","","",".",".","."
+"","Cwm Taf Morgannwg LHB (6)","","",13999,10959,78.2841
+"","Cwm Taf Morgannwg LHB (6)","Major A&E Departments (1)","",13237,10198,77.0416
+"","","Major A&E Departments (1)","Prince Charles Hospital ",4602,3549,77.1186
+"","","","The Royal Glamorgan Hospital ",4390,3340,76.082
+"","","","Princess of Wales Hospital (6)",4245,3309,77.9505
+"","","Other A&E/Minor Injury Units (2)","Cwm Taf LHB MIUs ",762,761,99.8687
+"","Cwm Taf University Health Board (6)","","",".",".","."
+"","Aneurin Bevan University Health Board ","","",12838,9569,74.5365
+"","Aneurin Bevan University Health Board ","Major A&E Departments (1)","",9947,6790,68.2617
+"","","Major A&E Departments (1)","Nevill Hall Hospital ",3502,2668,76.185
+"","","","Royal Gwent Hospital ",6445,4122,63.9565
+"","","Other A&E/Minor Injury Units (2)","",2891,2779,96.1259
+"","","Other A&E/Minor Injury Units (2)","Ysbyty Ystrad Fawr ",2107,2005,95.1589
+"","","","Aneurin Bevan LHB MIUs ",784,774,98.7244
+"","Cardiff and Vale University Health Board ","","",11846,9459,79.8497
+"","Cardiff and Vale University Health Board ","Major A&E Departments (1)","University Hospital of Wales ",11153,8767,78.6066
+"","","Other A&E/Minor Injury Units (2)","Cardiff and Vale University LHB MIUs (7)",693,692,99.8556
+
+
+
+Footnotes:
+"1","Major A&E Departments - defined as a consultant led service with appropriate resuscitation facilities and designated accommodation for the reception of accident and emergency patients.  These departments must provide the resuscitation, assessment and treatment of acute illness and injury in patients of all ages, and services must be available continuously 24 hours a day."
+"2","Other A&E/Minor Injury Units - defined as all other A&E/casualty/minor injury units which have designated accommodation for the reception of accident and emergency patients and can be routinely accessed without appointment, but which do not meet the criteria for a Major A&E Department."
+"3","Bryn Beryl (closed in May 2020; reopened in August 2020); Dolgellau and Barmouth District Hospital (closed in April 2020; remains closed); Tywyn & District War Memorial Hospital (closed in June 2020; remains closed)"
+"4","Formerly known as West Wales General Hospital"
+"5","Llandovery (closed in April 2020; remains closed)"
+"6","From 1st April 2019 health service provision for residents of Bridgend local authority moved from Abertawe Bro Morgannwg to Cwm Taf. The health board names have changed with Cwm Taf University Health Board becoming Cwm Taf Morgannwg University Health Board and Abertawe Bro Morgannwg University Health Board becoming Swansea Bay University Health Board."
+"7","Barry hospital (closed in March 2020; reopened in August 2020)"
+"8","Attendances where patients spend less than the target time from arrival until admission, transfer or discharge. Prior to April 2012, breaches were reported in the StatsWales cubes. All historical data has been converted to non-breaches."
+"9","Percentage of attendances where patients spend less than the target time from arrival until admission, transfer or discharge."
+".","The data item is not applicable."
+Metadata:
+"Title","Performance against waiting times targets by hospital"
+"Last update","22 October 2020"
+"Next update","19 November 2020"
+"Publishing organisation","Welsh Government"
+"Source 1","Emergency department data set (EDDS), NHS Wales Informatics Services (NWIS)"
+"Contact email","stats.healthinfo@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local health boards"
+"Geographical coverage","Wales"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"General description","Data Prior to January 2013 will not be directly comparable with data for January 2013 onwards due to a change in methodology. See notes in March 2013 release for more details (January 2013).
+For the March 2017 data onwards, there will be a new approach to publishing the emergency departments waiting times data: Prior to August 2012 data, the monthly emergency departments waiting times data was published by Welsh Government as official statistics in a Statistical Release, with more detailed data on StatsWales. 
+For August 2012 to February 2017 data, the monthly data was  published by NHS Wales Informatics Service (NWIS) on their website as management information.
+For March 2017 data onwards the monthly data is published on StatsWales with the NWIS publication being discontinued.
+There are some technical changes to A&E reporting, that have been implemented from December 2011 around clinical and operational exclusions. From December 2011, the guidance below now applies in Wales. So, the two situations below will no longer be counted as a breach of the targets: If a clinician decides that the safest place for a patient is the emergency department, the patient should remain there until it is safe to move them; and patients should not be admitted solely to avoid a breach of the targets. Clinicians should admit patients only to appropriate facilities and only when it is appropriate to do so.
+For the December 2011 data, Cardiff and Vale University and Betsi Cadwaladr University LHBs were not able to implement the change to the guidance around clinical exclusions. 
+For the January to July 2012 data, Betsi Cadwaladr University LHB was not able to fully implement the change for all months and Cardiff and Vale University LHB was only able to implement it for 26 to 31 January, but have fully implemented it from the February 2012 data. (Cardiff and Vale University informed us that they had to develop and test its systems and train users to ensure a robust collection around clinical exclusions to comply with the new EU compliance guidance. This was completed late in January.) Therefore the Wales figures for December 2011 to July 2012 are likely to be lower than expected. 
+A target around the eradication of 12 hour or more waits in all emergency care facilities from April 2013 onwards was introduced in the NHS Wales Delivery Framework for 2013-14, therefore data on the 12 hour target is not available before this date.
+Until April 2012, data was submitted via SITREPS on a daily and weekly basis. The quality of the daily reported data was not robust enough for publication, therefore data was taken from the validated weekly reports to ensure greater reliability. As a result, the information presented is based on a four/five weekly cycle rather than calendar months. The number of weeks in any given cycle is based on how many Mondays fall between the end of the previous cycle and the end of the month. It is the week end date, always a Monday, which is used to determine the 'month' a particular weekly report belongs to. Months consisting of a 5 week reporting period have a note next to them.
+Data for other A&E/minor injury units is only shown from April 2012 onwards as this information was not collected through SITREPS.  
+"
+"Data collection and calculation","Please find this information in the related statistical release, as per the given weblink.
+
+From 1st April 2019 health service provision for residents of Bridgend local authority moved from Abertawe Bro Morgannwg to Cwm Taf. For more information see the joint statement from Cwm Taf and Abertawe Bro Morgannwg University Health Boards (see weblinks). The health board names have changed with Cwm Taf University Health Board becoming Cwm Taf Morgannwg University Health Board and Abertawe Bro Morgannwg University Health Board becoming Swansea Bay University Health Board. A link to the statement from the minister for health and social service can be found in the weblinks section.
+
+Cardigan Integrated Care Centre took over Cardigan and District Memorial Hospital from mid-December 2019. For December 2019, data was reported against both sites for the duration of time that they were open during the month."
+"Frequency of publication","Monthly"
+"Data reference periods","April 2008 onwards"
+"Users, uses and context","Please find this information in the related statistical release, as per the given weblink."
+"Rounding applied",""
+"Revisions information","On a monthly basis, LHBs can resubmit data to NWIS if they have carried further validation during the month and they need to revise their data. In 2013, we looked at the size and impact of the resubmissions for the data. The impact of the changes tended to be minimal accounting for less than one percentage point change against the 4 hour target for 'A&E departments'. 
+
+Attendance data for January 2015, December 2016 and July 2017 was revised on 18/04/2019 to align with the NHS Wales reporting portal and incorporate resubmissions."
+"Statistical quality","Please find this information in the related statistical release, as per the given weblink.
+
+During the COVID-19 pandemic, several Minor Injury Units temporarily closed, but some have since reopened. These are Barry hospital (closed in March 2020; reopened in August 2020); Bryn Beryl (closed in May 2020; reopened in August 2020); Dolgellau and Barmouth District Hospital (closed in April 2020; remains closed); Tywyn & District War Memorial Hospital (closed in June 2020; remains closed); and Llandovery (closed in April 2020; remains closed). "
+"Keywords","Waiting times; A&E"
+"Weblinks","The most recent statistical release on accident and emergency waiting times can be found on the following weblink:
+https://gov.wales/time-spent-nhs-accident-and-emergency-departments
+
+https://cwmtaf.wales/welsh-government-announce-decision-on-bridgend-boundary-change/
+https://gov.wales/written-statement-health-board-boundary-bridgend-associated-planning
+"
