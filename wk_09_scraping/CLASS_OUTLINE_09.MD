@@ -12,7 +12,7 @@
 
 **CONCEPTS**
 
-- =IMPORTHTML(): tables, 'ol's, 'ul's & =IMPORTXML(): xpath & =IMPORTFEED()
+- =IMPORTHTML(): tables, 'ol's, 'ul's & =IMPORTXML(): xpath & =IMPORTFEED() rss & =IMPORTDATA() csv
 - Headers
 - Ethical & legal scraping
 - Requests
