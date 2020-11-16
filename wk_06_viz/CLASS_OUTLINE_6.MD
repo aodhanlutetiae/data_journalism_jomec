@@ -4,7 +4,7 @@
 [Hans Rosling video](https://www.youtube.com/watch?v=hVimVzgtD6w)
 
 — Read:
-[Stevens, Harry. "Why outbreaks like Coronavirus spread exponentially and how to "flatten the curve". The Washington Post, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+[Stevens, Harry. "Why outbreaks like Coronavirus spread exponentially and how to flatten the curve". The Washington Post, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 — Review:
 - [Pudding](https://pudding.cool/)
@@ -16,14 +16,16 @@
 **CONCEPTS**
 
 - Visualisation for data exploration
-- Statistical graphs: Histograms, boxplots, the Anscombe graphs
+- Statistical graphs: Histograms, boxplots, the Anscombe graphs (and the datasaurus)
 - Hand-drawn visualisation: [Mona Chalabi's instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
-- Checklist & Visualisation ethics (truncated & log y-axes, colour blindness, pink & blue, circle size & aspect ratio, editorial)
+- Checklist & Visualisation ethics (truncated y-axes, colour blindness, pink & blue, circle size & aspect ratio, editorial)
 - Tools: Datawrapper, Flourish, Tableau
 - Python visualisation libraries (pandas, matplotlib, seaborn)
-- Smaller tools: [Knight centre tools](https://knightlab.northwestern.edu/), [Google gifmaker](https://datagifmaker.withgoogle.com/)
+- Networks and graph theory
+- Smaller tools: [Knightlab tools](https://knightlab.northwestern.edu/), [Google gifmaker](https://datagifmaker.withgoogle.com/)
 
-[Not covered: graph theory, some python libraries (bokeh, plotly, pygal)]
+[Not covered: log scale graphs, some python libraries (bokeh, plotly, pygal)]
+
 
 **PRACTICE**
 

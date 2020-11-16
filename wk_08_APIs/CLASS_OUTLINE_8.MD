@@ -14,7 +14,7 @@
 
 - Easy access
 - API keys
-- OAuth authentication
+- OAuth authentication, Secrets
 - Terminology: endpoint("=url"), REST API, methods, keys, limits
 - API wrappers
 - Postman
