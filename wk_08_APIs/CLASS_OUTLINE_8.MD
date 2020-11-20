@@ -2,7 +2,7 @@
 — Do
 - Revise JSON & XML formats and dictionaries
 - Get an API key for *************
-- Pip install this wrapper: *******
+- Pip install this wrapper: wikipedia?????
 
 
 — Read
@@ -12,6 +12,7 @@
 
 **CONCEPTS**
 
+- What is an API (NY Times home page vs API, GWR site for people vs machines)
 - Easy access
 - API keys
 - OAuth authentication, Secrets
@@ -22,17 +23,18 @@
 
 **PRACTICE**
 
-— The following APIs:
+- NY Times
+
+— APIs without keys:
+
 - [Companies House](https://developer.company-information.service.gov.uk/api/docs/)
 - [Spotify](https://developer.spotify.com/documentation/web-api/)
 - [Open Corporates](https://api.opencorporates.com/)
-- [NY Times](https://developer.nytimes.com/apis)
 - [Guardian](https://open-platform.theguardian.com/access/)
 - [UK postcodes](https://postcodes.io/)
 - [UK government APIs](https://www.api.gov.uk/#uk-government-apis)
 - [UK police](https://data.police.uk/docs/)
 - [Hansard](https://api.parliament.uk/historic-hansard/api)
-- [UK Covid data](https://coronavirus.data.gov.uk/details/developers-guide)
 - [UK Met office](https://www.metoffice.gov.uk/services/data/datapoint)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [Star Wars](https://swapi.dev/)
@@ -40,6 +42,11 @@
 - [UK data election](https://candidates.democracyclub.org.uk/api/docs/next/)
 - [UK food hygiene](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 
+— APIs requiring keys
+- [NY Times](https://developer.nytimes.com/apis)
+
+— APIs requiring many parameters
+- [UK gov covid data](https://coronavirus.data.gov.uk/details/developers-guide)
 
 **RESOURCES**
 
