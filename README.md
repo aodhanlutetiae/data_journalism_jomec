@@ -2,7 +2,7 @@
 
 **MCT559 Data Journalism 2020-21, JOMEC (Cardiff University)**
 
-This is the material and weekly structure for the Data Journalism course taught at Cardiff University's School of Journalism in the Autumn 2020 semester (MSc in Computational & Data Journalism). The course ran for 12 weeks with a weekly 4-hour class and some weeks an additional 3-hour workshop. Questions and observations welcome at odonnella4@cardiff.ac.uk or [@aodhanlutetiae](https://www.twitter.com/aodhanlutetiae).
+This is the material and weekly structure for the Data Journalism course taught at Cardiff University's School of Journalism in the Autumn 2020 semester (MSc in Computational & Data Journalism). The course ran for 12 weeks with a weekly 4-hour class and, on some weeks, an additional 3-hour workshop. Questions and observations welcome at odonnella4@cardiff.ac.uk or [@aodhanlutetiae](https://www.twitter.com/aodhanlutetiae).
 
 **Course resources**
 - [Reading list](https://docs.google.com/document/d/15dNzLex3VdkcRjcXvyc8mKoXOFhBJHl2kVZeCUICLfQ/edit?usp=sharing)
@@ -28,4 +28,8 @@ This is the material and weekly structure for the Data Journalism course taught 
 
 **Assignments**
 
-These fell at the end of week 4, week 8 and just after week 12.
+These fell in week 4, in week 8 and just after week 12: 1. statistical analysis, 2. visualisation & 3. full story
+
+**Licence**
+
+[MIT License](https://github.com/aodhanlutetiae/dj2020/blob/master/LICENSE)

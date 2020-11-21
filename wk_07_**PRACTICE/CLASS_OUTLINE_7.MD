@@ -1,25 +1,21 @@
 **PREPARATORY WORK**
 
-Do
--
--
-
-Read
--
--
+- Nothing to prepare this week!
 
 **CONCEPTS**
 
-
-
+- Domain knowledge
+- Revision of first six weeks' material
 
 **PRACTICE**
 
 - Scrape a basic list of the 103 cities on offer, along with their urls
+- Pick a city, get and analyse the data and dig out a storyline
+- Review previous examples (below)
 
 **RESOURCES**
 
-- [Inside airbnb(103)](http://insideairbnb.com/get-the-data.html)
+- [Inside airbnb (103 cities)](http://insideairbnb.com/get-the-data.html)
 - [Kommenda et al, UK areas with one airbnb for every four homes, Guardian](https://www.theguardian.com/technology/2020/feb/20/revealed-the-areas-in-the-uk-with-one-airbnb-for-every-four-homes)
 - [Mapping the dominance of airbnb in Athens](https://medium.com/athenslivegr/mapping-the-dominance-of-airbnb-in-athens-4cb9e0657e80)
 - [Airbnb listing popularity analysis based on Barcelona](https://rstudio-pubs-static.s3.amazonaws.com/407929_afc5ef0f2ad648389447a6ca3f4a7cd4.html)

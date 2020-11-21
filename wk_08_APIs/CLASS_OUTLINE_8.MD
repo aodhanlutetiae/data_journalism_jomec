@@ -16,7 +16,7 @@
 - Easy access
 - API keys
 - OAuth authentication, Secrets
-- Terminology: endpoint("=url"), REST API, methods, keys, limits
+- Terminology: endpoint("=url"), REST API, methods, keys, limits, pagination
 - API wrappers
 - Postman
 
@@ -27,6 +27,8 @@
 
 — APIs without keys:
 
+- Stats Wales[example here](http://open.statswales.gov.wales/en-gb/dataset/schs0267 )
+- [Land registry](https://landregistry.data.gov.uk/api-config)
 - [Companies House](https://developer.company-information.service.gov.uk/api/docs/)
 - [Spotify](https://developer.spotify.com/documentation/web-api/)
 - [Open Corporates](https://api.opencorporates.com/)
