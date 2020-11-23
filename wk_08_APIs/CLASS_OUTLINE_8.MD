@@ -12,6 +12,7 @@
 
 **CONCEPTS**
 
+- Data formats ([NCR](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints) is a good example)
 - What is an API (NY Times home page vs API, GWR site for people vs machines)
 - Easy access
 - API keys
@@ -27,6 +28,7 @@
 
 — APIs without keys:
 
+- [National Chargepoint Registry, UK](https://chargepoints.dft.gov.uk/api/help)
 - Stats Wales[example here](http://open.statswales.gov.wales/en-gb/dataset/schs0267 )
 - [Land registry](https://landregistry.data.gov.uk/api-config)
 - [Companies House](https://developer.company-information.service.gov.uk/api/docs/)
@@ -46,6 +48,7 @@
 
 — APIs requiring keys
 - [NY Times](https://developer.nytimes.com/apis)
+- [FEC](https://api.open.fec.gov/developers/#/candidate/get_candidates_)
 
 — APIs requiring many parameters
 - [UK gov covid data](https://coronavirus.data.gov.uk/details/developers-guide)

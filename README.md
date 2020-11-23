@@ -28,7 +28,7 @@ This is the material and weekly structure for the Data Journalism course taught 
 
 **Assignments**
 
-These fell in week 4, in week 8 and just after week 12: 1. statistical analysis, 2. visualisation & 3. full story
+These fell in week 4, in week 8 and just after week 12: 1. numerical analysis, 2. visualisation & 3. full story
 
 **Licence**
 

@@ -19,7 +19,7 @@
 - Beautiful soup, gazpacho and xpath for parsing
 - Spiders via Scrapy
 - AJAX and rendering client side (selenium)
-- Scraping data from viz and maps
+- Scraping data from viz and maps (Tableau public example)
 
 [Not covered: GUIs / plugins, Openrefine, Outwithub]
 
