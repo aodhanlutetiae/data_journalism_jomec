@@ -1,14 +1,12 @@
 
 — Do
-- Revise JSON & XML formats and dictionaries
-- Get an API key for *************
-- Pip install this wrapper: wikipedia?????
-
+Revise JSON & XML formats and dictionaries
+Get an API key for *************
+Pip install this wrapper: wikipedia?????
 
 — Read
-- [APIs for journalism, Datajournalism.com](https://datajournalism.com/read/newsletters/apis-for-journalism)
-- [Intro to APIs, Brian Cooksey](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
-
+[APIs for journalism, Datajournalism.com](https://datajournalism.com/read/newsletters/apis-for-journalism)
+[Intro to APIs, Brian Cooksey](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
 
 **CONCEPTS**
 
