@@ -10,10 +10,10 @@ Read
 
 **CONCEPTS**
 
--
--
--
--
+- GDPR
+- Web scraping
+- Licences
+- Visualisation ethics
 
 
 **PRACTICE**

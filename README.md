@@ -19,12 +19,10 @@ This is the material and weekly structure for the Data Journalism course taught 
 - Week 6 — Visualising data
 - Week 7 — **PRACTICE
 - Week 8 — APIs
-- Week 9 — Scraping for journalism
+- Week 9 — Scraping for journalism (one)
 - Week 10 — Ethical & Legal
-- Week 11 — SQL
+- Week 11 — Scraping for journalism (two)
 - Week 12 — **PRACTICE
-
-
 
 **Assignments**
 
