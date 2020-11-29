@@ -13,7 +13,7 @@
 **CONCEPTS**
 
 - latitude & longitude, xy coordinates, projection
-- geodata filetypes (csv, KML & KMZ & GML, shp, geojson)
+- geodata filetypes (csv, KML & KMZ & GML, shp, geojson, FGDB)
 - Boundaries Wales (Police & emergency services, Rugby regions, Senedd regions, NHS boards & trusts, Unitary authorities, UK & Senedd constituencies, Electoral wards, Communities (parishes), Output areas, Super Output areas)
 - Googlemaps, OSM, Datawrapper, Flourish
 - Carto, Mapbox, Mangomap
@@ -49,3 +49,4 @@
 - [Knight Center. Online course: Intro to mapping for journalists. 2018.](https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/ )
 - [ONS. A beginner's guide to UK geography, 2020.](https://www.arcgis.com/sharing/rest/content/items/86ebfbad61c941bebbc7edbf2b985efe/data)
 - [ONS. UK geographic codes reference, 2020.(reference only)](https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2)
+- [Postcodes, towns and districts](https://www.doogal.co.uk/PostcodeDistricts.php)
