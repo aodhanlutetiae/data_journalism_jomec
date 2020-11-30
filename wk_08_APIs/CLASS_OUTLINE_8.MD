@@ -66,6 +66,7 @@ See also:
 
 **RESOURCES**
 
+- [BBC 2019 data report on electric charging points](https://github.com/BBC-Data-Unit/electric-car-charging-points)
 - [Opencorporates API tutorial by FT's Max Harlow](https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)
 - [Jonathan Soma's short Spotify API example](http://jonathansoma.com/lede/foundations/classes/04/class/)
 - [Global API list](https://www.programmableweb.com/apis/directory)

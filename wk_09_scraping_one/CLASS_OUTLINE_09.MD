@@ -1,7 +1,7 @@
 **PREPARATORY WORK**
 
 — Do
-- Install requests, beautiful soup, gazpacho, lxml, scrapy, selenium (for notebooks)
+- Install beautiful soup, gazpacho, lxml, scrapy, selenium (for notebooks)
 - On Chrome install plugins: Web scraper, Scraper, Downthemall
 
 — Review case studies of scraping for journalism
@@ -15,11 +15,10 @@
 - =IMPORTHTML(): tables, 'ol's, 'ul's & =IMPORTXML(): xpath & =IMPORTFEED() rss & =IMPORTDATA() csv
 - Headers
 - Ethical & legal scraping
-- requests
 - Beautiful soup, gazpacho and xpath for parsing
 - Spiders via Scrapy
 - AJAX and rendering client side (selenium)
-- Scraping data from viz and maps (Tableau public example)
+- Scraping data from viz and maps
 
 [Not covered: GUIs / plugins, Openrefine, Outwithub]
 
