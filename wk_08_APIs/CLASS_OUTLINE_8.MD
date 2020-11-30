@@ -12,32 +12,31 @@
 **CONCEPTS**
 
 - Data formats
-- What is an API? (NY Times home page vs API, GWR site for people vs machines)
-- Open access, API keys & OAuth authentication / Secrets
+- What is an API?
+- Open access, API keys & OAuth
 - Terminology: endpoints, versions, REST, methods, keys, rate limits, parameters, queries
 - API wrappers
 
 **PRACTICE**
 
-- Query (and graph) the Wikipedia page view API to a page whose view numbers might be newsworthy
-- Query the UK police API to find if any bicycle thefts around a given point go to court
-- Query the National register for vehicle charge points in: Cardiff, Wales. Filter results.
+- Query (and graph) the Wikipedia pageviews API for a page whose view numbers are newsworthy
+- Query UK police API to see if any bicycle thefts around a given point in Sept are going to court
+- Query the National Register for vehicle charge points in: Cardiff, Wales. Filter results.
 
 **APIs**
 
-— APIs without keys:
+— APIs without keys
 - [UK postcodes](https://postcodes.io/)
-- [National Chargepoint Registry, UK](https://chargepoints.dft.gov.uk/api/help)
-- [Open Charge Map](https://openchargemap.org/site/develop/api)
+- [UK National Chargepoint Registry ](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
 - [Stats Wales](https://statswales.gov.wales/Help/Catalogue#APIEndpointsExplained)
 - [UK police](https://data.police.uk/docs/)
-- [Wikipedia page views API](https://wikimedia.org/api/rest_v1/#/)
+- [Wikipedia pageviews](https://wikimedia.org/api/rest_v1/#/)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [UK data election](https://candidates.democracyclub.org.uk/api/docs/next/)
 - [UK food hygiene (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [US Press Freedom Tracker](https://pressfreedomtracker.us/data/)
-- [UK parliament APIs](http://explore.data.parliament.uk/)
+- [UK parliament](http://explore.data.parliament.uk/)
 - [UK government Covid data](https://coronavirus.data.gov.uk/details/developers-guide)
 
 — APIs requiring keys
@@ -54,7 +53,7 @@
 
 — Mapping APIs
 - [Google mapping bundle](https://developers.google.com/maps/documentation)
-- [OSM read-only](https://wiki.openstreetmap.org/wiki/Overpass_API)
+- [OSM (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
 - [Mapbox bundle](https://docs.mapbox.com/api/)
 - [Carto bundle](https://carto.com/developers/)
 
@@ -70,7 +69,7 @@ See also:
 - [Opencorporates API tutorial by FT's Max Harlow](https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)
 - [Jonathan Soma's short Spotify API example](http://jonathansoma.com/lede/foundations/classes/04/class/)
 - [Global API list](https://www.programmableweb.com/apis/directory)
-- [Github list of APIs for computing people](https://github.com/public-apis/public-apis)
+- [Github list of APIs for computing interest](https://github.com/public-apis/public-apis)
 - [Gentle guide to APIs for data journalists by Jake Kara](https://medium.com/trendct-data/a-gentle-guide-to-apis-for-data-journalists-2a6b0e6fcc1a)
 - [Brian Cooksey API guide](https://zapier.com/learn/apis/)
 - [Introduction: API queries about the ISS](https://www.dataquest.io/blog/python-api-tutorial/)
