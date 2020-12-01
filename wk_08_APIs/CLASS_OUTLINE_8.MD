@@ -21,7 +21,7 @@
 
 - Query (and graph) the Wikipedia pageviews API for a page whose view numbers are newsworthy
 - Query UK police API to see if any bicycle thefts around a given point in Sept are going to court
-- Query the National Register for vehicle charge points in: Cardiff, Wales. Filter results.
+- Query the National Register for vehicle charge points in: Cardiff & Wales. Filter results.
 
 **APIs**
 
@@ -66,11 +66,11 @@ See also:
 
 **RESOURCES**
 
-- [BBC 2019 data report on electric charging points](https://github.com/BBC-Data-Unit/electric-car-charging-points)
+- [BBC 2019 data-driven report on electric charging points](https://github.com/BBC-Data-Unit/electric-car-charging-points)
 - [Opencorporates API tutorial by FT's Max Harlow](https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)
 - [Jonathan Soma's short Spotify API example](http://jonathansoma.com/lede/foundations/classes/04/class/)
 - [Global API list](https://www.programmableweb.com/apis/directory)
-- [Github list of APIs for computing interest](https://github.com/public-apis/public-apis)
+- [Github list of APIs](https://github.com/public-apis/public-apis)
 - [Gentle guide to APIs for data journalists by Jake Kara](https://medium.com/trendct-data/a-gentle-guide-to-apis-for-data-journalists-2a6b0e6fcc1a)
 - [Brian Cooksey API guide](https://zapier.com/learn/apis/)
 - [Introduction: API queries about the ISS](https://www.dataquest.io/blog/python-api-tutorial/)
