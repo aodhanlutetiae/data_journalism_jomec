@@ -5,14 +5,16 @@
 - On Chrome install plugins: Web scraper, Scraper, Downthemall
 
 — Review case studies of scraping for journalism
-- [Heathrow noise complaint every five minutes](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
-- [World Cup 2018: France won but how did Ligue 1 fare?](https://www.dw.com/en/world-cup-2018-france-won-but-how-did-ligue-1-fare/a-44705606) & [code](https://github.com/dw-data/wm2018?utm_source=sendinblue&utm_campaign=back_up_copy_Conversations_with_Data_October_scraping)
-- [UK election results 2019](https://github.com/aodhanlutetiae/uk_election_2019)
-- [Rail fares increases: charts explain passengers' frustration](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
+- [Rail fares increases: charts explain passengers' frustration, 2019](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
+- [How corporate Britain hides thousands of sex discrimination cases, 2019](https://www.bloomberg.com/graphics/2019-uk-sexual-discrimination-settlements/) & [code]()
+- [UK parliamentary election results, 2019](https://github.com/aodhanlutetiae/uk_election_2019)
+- [World Cup 2018: France won but how did Ligue 1 fare?, 2018](https://www.dw.com/en/world-cup-2018-france-won-but-how-did-ligue-1-fare/a-44705606) & [code](https://github.com/dw-data/wm2018?utm_source=sendinblue&utm_campaign=back_up_copy_Conversations_with_Data_October_scraping)
+- [MPs declare sports and bookies as most common donors, 2017](https://www.bbc.co.uk/news/uk-england-41027964)
+- [Heathrow noise complaint every five minutes, 2016](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
 
 **CONCEPTS**
 
-- =IMPORTHTML(): tables, 'ol's, 'ul's & =IMPORTXML(): xpath & =IMPORTFEED() rss & =IMPORTDATA() csv
+- =IMPORTHTML() tables & lists
 - Headers
 - Ethical & legal scraping
 - Beautiful soup, gazpacho and xpath for parsing
