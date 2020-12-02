@@ -1,7 +1,7 @@
 **PREPARATORY WORK**
 
 — Do
-- Install Beautiful soup
+- Install [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 
 — Review
 - [Rail fares increases: charts explain passengers' frustration, 2019](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
@@ -15,8 +15,8 @@
 
 - =IMPORTHTML() tables & lists
 - Ethical & legal scraping (including headers)
-- Beautiful soup, gazpacho and xpath for parsing
-
+- Beautiful soup
+- Xpath path for parsing
 - Spiders via Scrapy
 - AJAX and rendering client side (Selenium)
 - Scraping data from viz and maps
@@ -58,7 +58,18 @@ Scrape a dynamic webpage
 - [Freecodecamp course on beautiful soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
 - [Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
 
-**RESOURCES — ETHICS READING**
+**RESOURCES — PRACTICE SITES**
+
+- [Scrape table simple](http://pythonscraping.com/pages/page1.html)
+- [Scrape table](http://pythonscraping.com/pages/page3.html)
+- [Scrape world](https://scrape.world/)
+- [Scrape War and Peace](http://www.pythonscraping.com/pages/warandpeace.html)
+- [Books to scrape](http://books.toscrape.com/)
+- [Quotes to scrape](http://quotes.toscrape.com/)
+- [Five sites for scraping](https://scrapethissite.com/pages/)
+
+
+**RESOURCES — ETHICS**
 
 - [Gold, Zachardy & Latonero, Mark. “Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping”, 13/3, *Washington Journal of Law, Technology & Arts*, 2018, p. 275.](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420)
 - [Heydt, Michael. “Scraping. Code of conduct’, *Python web scraping cookbook*, Packt, 2018.](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217)
