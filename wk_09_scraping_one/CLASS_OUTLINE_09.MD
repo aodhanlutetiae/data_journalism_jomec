@@ -15,14 +15,13 @@
 
 - Mechanics: CURL, CTRL + U, CTRL + OPT + I
 - =IMPORTHTML() tables & lists
-- Ethical & legal scraping (including headers)
 - Beautiful soup for parsing
+- Ethical & legal scraping
 - Xpath path for parsing
 - Spiders via Scrapy
 - AJAX and rendering client side (Selenium)
-- Scraping data from viz and maps
 
-[Not covered: GUIs / plugins, Openrefine, Outwithub, gazpacho, lxml, scrapy, selenium]
+[Not covered: viz & maps, GUIs / plugins, Openrefine, Outwithub, gazpacho, lxml, scrapy, selenium]
 
 
 **PRACTICE**
@@ -30,16 +29,12 @@
 - Essential principles: [Simple page](http://pythonscraping.com/pages/page1.html)
 - Details from single page: [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 - Names and addresses from 3 pages of search results: [Cardiff bookies](https://www.yell.com/ucs/UcsSearchAction.do?keywords=Bookmakers&location=cardiff%2C+United+Kingdom&scrambleSeed=1005010098&pageNum=1)
-- Plan for 30 pages of 30 entries each: [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added). Scrape first five pages.
+- Plan for 30 pages of 30 entries each: [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
 - Results from all 40 Wales constituencies from [2019 parliamentary election](https://www.bbc.co.uk/news/politics/constituencies/E14000832)
 - Data from [Wales Brexit site with collapsed data](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
 
 
-**HOMEWORK**
-
-Find a site which might be usefully scraped for a story
-
-**RESOURCES**
+**RESOURCES — SOFTWARE**
 
 - [Freecodecamp course on beautiful soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
 - [Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
@@ -58,7 +53,7 @@ Find a site which might be usefully scraped for a story
 **RESOURCES — ETHICS**
 
 - [Gold, Zachardy & Latonero, Mark. “Robots Welcome? Ethical and Legal Considerations for Web Crawling and Scraping”, 13/3, *Washington Journal of Law, Technology & Arts*, 2018, p. 275.](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA5186951260002420)
-- [Heydt, Michael. “Scraping. Code of conduct’, *Python web scraping cookbook*, Packt, 2018.](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217)
+- [Heydt, Michael. “Scraping. Code of conduct", *Python web scraping cookbook*, Packt, 2018.](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217)
 - [Mitchell, Ryan. “Legalities & ethics of web scraping”. *Web scraping with Python*. 2nd edition. 2018.](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125433210002420)
 - [Sellars, Andrew. “Twenty Years of Web Scraping and the Computer Fraud and Abuse Act”, *Boston University Journal of Science & Technology Law*, 24, 2018, p. 372.](https://scholarship.law.bu.edu/faculty_scholarship/465)
 - [Shiab, Nael. "On the ethics of web scraping". *GIJN*, 2015.](https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)
