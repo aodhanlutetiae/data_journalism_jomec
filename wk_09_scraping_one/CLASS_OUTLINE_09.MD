@@ -13,45 +13,36 @@
 
 **CONCEPTS**
 
+- Mechanics: CURL, CTRL + U, CTRL + OPT + I
 - =IMPORTHTML() tables & lists
 - Ethical & legal scraping (including headers)
-- Beautiful soup
+- Beautiful soup for parsing
 - Xpath path for parsing
 - Spiders via Scrapy
 - AJAX and rendering client side (Selenium)
 - Scraping data from viz and maps
 
-[Not covered: GUIs / plugins, Openrefine, Outwithub]
-[Not covered: gazpacho, lxml, scrapy, selenium]
+[Not covered: GUIs / plugins, Openrefine, Outwithub, gazpacho, lxml, scrapy, selenium]
 
 
 **PRACTICE**
 
-Scrape [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff) for basic staff contact info
+-Essential principles: [Simple page](http://pythonscraping.com/pages/page1.html)
 
-[Cardiff potholes?](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
+-Details from single page: [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 
-[Cardiff bookies](https://www.yell.com/ucs/UcsSearchAction.do?keywords=Bookmakers&location=cardiff%2C+United+Kingdom&scrambleSeed=1005010098)
+-Collect name and addresses from 3 pages of search results: [Cardiff bookies](https://www.yell.com/ucs/UcsSearchAction.do?keywords=Bookmakers&location=cardiff%2C+United+Kingdom&scrambleSeed=1005010098&pageNum=1)
 
-Scrape [this Wales Brexit website without any datafile](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
+-Design a plan for 30 pages of 30 entries each: [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added). Scrape first five pages.
 
-Scrape a selection of [the BBC's 2019 UK election results](https://www.bbc.co.uk/news/politics/constituencies/E14000546) using constituency codes
+-Scrape all 40 Wales constituencies from [2019 parliamentary election](https://www.bbc.co.uk/news/politics/constituencies/E14000832)
 
-Scrape [Register of Members' Financial Interests](https://publications.parliament.uk/pa/cm/cmregmem/201012/contents.htm)
-1. List of the Members
-2. A single Member
-3. Three consecutive Members
+-Scrape [this Wales Brexit website which has its data collapsed](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
 
-Do a bit of the Bloomberg scrape?
 
-Locate dynamically loading audiovisual files
+**HOMEWORK**
 
-Build a pipeline using Scrapy
-
-Scrape the Lords? all 800+
-
-Scrape a dynamic webpage
-
+Find a site which might be usefully scraped for a story
 
 **RESOURCES**
 
@@ -61,8 +52,8 @@ Scrape a dynamic webpage
 **RESOURCES — PRACTICE SITES**
 
 - [Scrape table simple](http://pythonscraping.com/pages/page1.html)
+- [Scraping challenges](https://scrape.world/)
 - [Scrape table](http://pythonscraping.com/pages/page3.html)
-- [Scrape world](https://scrape.world/)
 - [Scrape War and Peace](http://www.pythonscraping.com/pages/warandpeace.html)
 - [Books to scrape](http://books.toscrape.com/)
 - [Quotes to scrape](http://quotes.toscrape.com/)
