@@ -1,11 +1,11 @@
 **PREPARATORY WORK**
 
-— Do:
+— Do
 - get Tableau Desktop / Public running
 - get Carto login (via github education)
 - install QGIS 3.10, get Datawrapper and Flourish accounts
 
-— Read:
+— Read
 - [Ericson, Matthew. When maps shouldn’t be maps. Blogpost. 2011.](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/ )
 - [Marcoux, Jacques. Geographic information systems, a use case for journalists. Datajournalism.com, Nov 2019.](https://datajournalism.com/read/longreads/geographic-information-systems-a-use-case-for-journalists)
 - [Mason, Betty. Election maps are everywhere. Don’t let them fool you. New York Times. 2020.](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)

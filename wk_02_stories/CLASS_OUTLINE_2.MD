@@ -1,10 +1,10 @@
 **PREPARATORY WORK**
 
-— Do:
-Set up your own [Datawrapper](https.www.datawrapper.de/signin) account. Make a simple graph.
+— Do
+- Set up your own [Datawrapper](https.www.datawrapper.de/signin) account. Make a simple graph.
 Open a google colaboratory notebook and print 'hello world!'
 
-— Read:
+— Read
 - [Thomas, Amber. “How to go from idea, to data, to story”. The Pudding.](https://pudding.cool/process/pivot-continue-down/)
 - [Bradshaw, Paul. Here are the angles journalists use most often to tell stories in data.](https://onlinejournalismblog.com/2020/08/11/here-are-the-7-types-of-stories-most-often-found-in-data/)
 - [Bradshaw, Paul. It’s not all about numbers: six ways data can give you a story lead.](https://onlinejournalismblog.com/2020/02/05/its-not-all-about-numbers-6-ways-that-data-can-give-you-a-story-lead/)

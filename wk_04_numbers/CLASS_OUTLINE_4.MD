@@ -1,10 +1,10 @@
 **PREPARATORY WORK**
 
-— Watch:
-[Lievesley, Denise. A guide to statistics for journalists. Reuters Institute, 2020. 1 hr. Video.](https://www.youtube.com/watch?v=_qioPxHuk0U)
+— Watch
+- [Lievesley, Denise. A guide to statistics for journalists. Reuters Institute, 2020. 1 hr. Video.](https://www.youtube.com/watch?v=_qioPxHuk0U)
 
-— Do:
-Install Anaconda and have Jupyter Notebook running. Import pandas.
+— Do
+- Install Anaconda and have Jupyter Notebook running. Import pandas.
 
 — Read (before or after class), in this order:
 

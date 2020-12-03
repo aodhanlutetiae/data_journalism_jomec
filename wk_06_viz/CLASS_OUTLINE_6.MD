@@ -1,12 +1,12 @@
 **PREPARATORY WORK**
 
-— Watch:
+— Watch
 [Hans Rosling video](https://www.youtube.com/watch?v=hVimVzgtD6w)
 
-— Read:
+— Read
 [Stevens, Harry. "Why outbreaks like Coronavirus spread exponentially and how to flatten the curve". The Washington Post, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
-— Review:
+— Review
 - [Pudding](https://pudding.cool/)
 - [Pudding hitlist, 2019](https://pudding.cool/process/pudding-cup-2019/)
 - [Information is beautiful, 2019](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards)

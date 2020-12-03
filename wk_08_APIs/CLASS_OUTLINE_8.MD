@@ -57,7 +57,7 @@
 - [Mapbox bundle](https://docs.mapbox.com/api/)
 - [Carto bundle](https://carto.com/developers/)
 
-See also:
+— See also
 - [List of UK government APIs (some public, some private)](https://www.api.gov.uk/index/#index)
 - [Open Notify (ISS)](http://open-notify.org/Open-Notify-API/)
 - [Star Wars](https://swapi.dev/)
