@@ -4,17 +4,21 @@
 - Install [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 
 — Review
+- [Dollars for docs](https://projects.propublica.org/docdollars/)
 - [Rail fares increases: charts explain passengers' frustration, 2019](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
 - [How corporate Britain hides thousands of sex discrimination cases, 2019](https://www.bloomberg.com/graphics/2019-uk-sexual-discrimination-settlements/) & [code]()
 - [UK parliamentary election results, 2019](https://github.com/aodhanlutetiae/uk_election_2019)
 - [World Cup 2018: France won but how did Ligue 1 fare?, 2018](https://www.dw.com/en/world-cup-2018-france-won-but-how-did-ligue-1-fare/a-44705606) & [code](https://github.com/dw-data/wm2018)
+- *The Economist* [Where to ski, 2017](https://www-economist-com.abc.cardiff.ac.uk/1843/2017/12/12/where-to-ski), [News Googling, 2018](https://www-economist-com.abc.cardiff.ac.uk/united-states/2018/08/30/googling-the-news), [Led Zeppling at 50](https://www-economist-com.abc.cardiff.ac.uk/prospero/2018/08/09/fifty-years-on-led-zeppelin-are-still-idols-for-aspiring-rock-stars), 
 - [MPs declare sports and bookies as most common donors, 2017](https://www.bbc.co.uk/news/uk-england-41027964)
 - [Heathrow noise complaint every five minutes, 2016](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
+- [Ontario's alcohol cheaper than Quebec's (Fr), 2015](https://journalmetro.com/actualites/national/789697/saq-des-centaines-de-produits-moins-chers-en-ontario/)
+- [Are you paying too much rent? (Fr), 2015](https://ici.radio-canada.ca/nouvelle/725385/loyer-abordable-kijiji-annonces-prix-logements-location)
 
 **CONCEPTS**
 
-- Mechanics: CURL, CTRL + U, CTRL + OPT + I
-- =IMPORTHTML() tables & lists
+- Internet mechanics: CURL, CTRL + U, CTRL + OPT + I
+- =IMPORTHTML() tables & lists & Excel / Data / Get external
 - Beautiful soup for parsing
 - Ethical & legal scraping
 - Xpath path for parsing
@@ -42,7 +46,7 @@
 **RESOURCES — PRACTICE SITES**
 
 - [Scrape table simple](http://pythonscraping.com/pages/page1.html)
-- [Scraping challenges](https://scrape.world/)
+- [Seven scraping challenges](https://scrape.world/challenges)
 - [Scrape table](http://pythonscraping.com/pages/page3.html)
 - [Scrape War and Peace](http://www.pythonscraping.com/pages/warandpeace.html)
 - [Books to scrape](http://books.toscrape.com/)
@@ -57,4 +61,3 @@
 - [Mitchell, Ryan. “Legalities & ethics of web scraping”. *Web scraping with Python*. 2nd edition. 2018.](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125433210002420)
 - [Sellars, Andrew. “Twenty Years of Web Scraping and the Computer Fraud and Abuse Act”, *Boston University Journal of Science & Technology Law*, 24, 2018, p. 372.](https://scholarship.law.bu.edu/faculty_scholarship/465)
 - [Shiab, Nael. "On the ethics of web scraping". *GIJN*, 2015.](https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)
-- [Waterman, Tom. "Web scraping is now legal". *Medium*, 2020.](https://medium.com/@tjwaterman99/web-scraping-is-now-legal-6bf0e5730a78)
