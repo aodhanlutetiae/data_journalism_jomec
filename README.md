@@ -5,6 +5,7 @@
 This is the material and weekly structure for the Data Journalism course taught at Cardiff University's School of Journalism in the Autumn 2020 semester ([MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc)). The course ran for 12 weeks with a weekly 4-hour class and, on some weeks, an additional 3-hour workshop. Questions and observations welcome at odonnella4@cardiff.ac.uk or [@aodhanlutetiae](https://www.twitter.com/aodhanlutetiae).
 
 **Course resources**
+
 - [Reading list](https://docs.google.com/document/d/15dNzLex3VdkcRjcXvyc8mKoXOFhBJHl2kVZeCUICLfQ/edit?usp=sharing)
 - [Random datasets list](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
 - [Quite a few Python tutorials, thanks to the good people at Datacamp.com](https://learn.datacamp.com/search?q=python)
