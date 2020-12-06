@@ -27,3 +27,13 @@
 - [The (journalism) Housing Project](https://niemanreports.org/articles/journalists-across-europe-collaborate-to-cover-airbnb-and-other-housing-issues/)
 
 - ["Incorrect Data in the Widely Used Inside Airbnb Dataset", Abdulkareem Alsudais, 2020](https://arxiv.org/abs/2007.03019)
+
+**PANDAS (CARDIFF UNIVERSITY LIBRARY) RESOURCES**
+
+- [McKinney, *Python for data analysis*, 2017](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125415750002420)
+- [Heydt, *Learning Pandas*, 2nd ed., 2017](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_igpublishing_primary_PACKT0000405)
+- [Kumar, *Mastering Pandas*, 2nd ed., 2019](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789343236)
+Chen, *Pandas for everyone*, 2017
+- [Harrison, *Pandas 1 x cookbook*, 2020](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156095570002420)
+- [Stepanek, *Thinking in pandas*, 2020](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781484258392)
+- [Kumar, *Mastering pandas*, 2019](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789343236)

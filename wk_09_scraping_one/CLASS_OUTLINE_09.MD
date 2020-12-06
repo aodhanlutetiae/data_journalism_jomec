@@ -2,13 +2,14 @@
 
 — Do
 - Install [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
+- Install [lxml](https://pypi.org/project/lxml/)
+- Install [Selenium](https://pypi.org/project/selenium/)
 
 — Review
 - [Dollars for docs](https://projects.propublica.org/docdollars/)
 - [Rail fares increases: charts explain passengers' frustration, 2019](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
 - [How corporate Britain hides thousands of sex discrimination cases, 2019](https://www.bloomberg.com/graphics/2019-uk-sexual-discrimination-settlements/) & [code]()
 - [UK parliamentary election results, 2019](https://github.com/aodhanlutetiae/uk_election_2019)
-- [World Cup 2018: France won but how did Ligue 1 fare?, 2018](https://www.dw.com/en/world-cup-2018-france-won-but-how-did-ligue-1-fare/a-44705606) & [code](https://github.com/dw-data/wm2018)
 - [Where to ski, 2017](https://www-economist-com.abc.cardiff.ac.uk/1843/2017/12/12/where-to-ski), [News Googling, 2018](https://www-economist-com.abc.cardiff.ac.uk/united-states/2018/08/30/googling-the-news), [Led Zepplin at 50, 2018](https://www-economist-com.abc.cardiff.ac.uk/prospero/2018/08/09/fifty-years-on-led-zeppelin-are-still-idols-for-aspiring-rock-stars) (*The Economist*)
 - [MPs declare sports and bookies as most common donors, 2017](https://www.bbc.co.uk/news/uk-england-41027964)
 - [Heathrow noise complaint every five minutes, 2016](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
@@ -22,11 +23,9 @@
 - Beautiful soup for parsing
 - Ethical & legal scraping
 - Xpath path for parsing
-- Spiders via Scrapy
-- AJAX and rendering client side (Selenium)
+- Interacting via Selenium
 
-[Not covered: viz & maps, GUIs / plugins, Openrefine, Outwithub, gazpacho, lxml, scrapy, selenium]
-
+[Not covered: viz & maps, GUIs / plugins, Openrefine, Outwithub, gazpacho, lxml, scrapy]
 
 **PRACTICE**
 
