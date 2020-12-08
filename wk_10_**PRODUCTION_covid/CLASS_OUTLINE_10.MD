@@ -25,6 +25,7 @@ Play
 - UK gov Covid API
 - Live graphing
 - ONS as a resource
+- =IMPORTHTML() for[worldometers](https://www.worldometers.info/coronavirus/)
 
 
 

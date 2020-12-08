@@ -18,7 +18,8 @@
 - Googlemaps, OSM, Datawrapper, Flourish
 - Carto, Mapbox, Mangomap
 - Tableau, QGIS
-- Python mapping modules (geopandas, folium, mplleaflet)
+- Python mapping modules geopandas, folium, mplleaflet (not covered: basemap, geoviews, keplergl, ipyleaflet, cartopy)
+
 
 **PRACTICE**
 

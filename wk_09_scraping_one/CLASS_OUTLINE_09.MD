@@ -18,11 +18,10 @@
 
 **CONCEPTS**
 
-- Internet mechanics: CURL, CTRL + U, CTRL + OPT + I
-- =IMPORTHTML() tables & lists & Excel / Data / Get external
+- Internet mechanics: CURL, CTRL + U, CTRL + OPT + I, =IMPORTHTML()
 - Beautiful soup for parsing
 - Ethical & legal scraping
-- Xpath path for parsing
+- Xpath for parsing
 - Interacting via Selenium
 
 [Not covered: viz & maps, GUIs / plugins, Openrefine, Outwithub, gazpacho, lxml, scrapy]
@@ -32,6 +31,8 @@
 - Essential principles: [Simple page](http://pythonscraping.com/pages/page1.html)
 - Details from single page: [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 - Names and addresses from 3 pages of search results: [Cardiff bookies](https://www.yell.com/ucs/UcsSearchAction.do?keywords=Bookmakers&location=cardiff%2C+United+Kingdom&scrambleSeed=1005010098&pageNum=1)
+- [MPs' financial interests](https://publications.parliament.uk/pa/cm/cmregmem/201123/contents.htm)
+
 - Plan for 30 pages of 30 entries each: [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
 - Results from all 40 Wales constituencies from [2019 parliamentary election](https://www.bbc.co.uk/news/politics/constituencies/E14000832)
 - Data from [Wales Brexit site with collapsed data](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
@@ -41,6 +42,7 @@
 
 - [Freecodecamp course on beautiful soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
 - [Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
+
 
 **RESOURCES — PRACTICE SITES**
 
