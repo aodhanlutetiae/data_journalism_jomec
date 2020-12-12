@@ -3,7 +3,6 @@
 — Do
 - Install [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 - Install [lxml](https://pypi.org/project/lxml/)
-- Install [Selenium](https://pypi.org/project/selenium/)
 
 — Review
 - [Dollars for docs](https://projects.propublica.org/docdollars/)
@@ -32,7 +31,6 @@
 - Details from single page: [Jomec staff page](https://www.cardiff.ac.uk/journalism-media-and-culture/people/academic-staff)
 - Names and addresses from 3 pages of search results: [Cardiff bookies](https://www.yell.com/ucs/UcsSearchAction.do?keywords=Bookmakers&location=cardiff%2C+United+Kingdom&scrambleSeed=1005010098&pageNum=1)
 - [MPs' financial interests](https://publications.parliament.uk/pa/cm/cmregmem/201123/contents.htm)
-
 - Plan for 30 pages of 30 entries each: [Cardiff potholes](https://www.fillthathole.org.uk/authority/cardiff/hazards?sort=asc&order=Added)
 - Results from all 40 Wales constituencies from [2019 parliamentary election](https://www.bbc.co.uk/news/politics/constituencies/E14000832)
 - Data from [Wales Brexit site with collapsed data](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/eu-referendum/results-and-turnout-eu-referendum/eu-referendum-results-region-wales)
