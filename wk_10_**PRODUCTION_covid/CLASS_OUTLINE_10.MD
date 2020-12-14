@@ -5,20 +5,18 @@
 
 **CONCEPTS**
 
-- Stories with Covid + data (but no medical or health stories!)
-- R numbers, Log-axis charts, Exponential growth, Rolling averages
 - The trouble with counting
-- Journalistic angles
-- Visualisation and mapping ethics
+- Rolling averages, Exponential growth, Logarithmic scale axes
+- Visualisation ethics
+- Stories with Covid + data (but no medical or health stories!)
 
 
 **PRACTICE**
 
 - [UK gov Covid API (v2) with GUI](https://coronavirus.data.gov.uk/details/download)
+- [Public Health Wales dashboard + data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
+- [ONS Covid-related datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist?filter=datasets)
 - [NHS API](https://developer.api.nhs.uk/coronavirus/api)
-- =IMPORTHTML() for [worldometers](https://www.worldometers.info/coronavirus/)
-- Live graphing
-- ONS as a resource
 
 
 **JOURNALISM**
@@ -37,3 +35,14 @@
 - [The increase in statutory instruments before parliament *](https://www.hansardsociety.org.uk/publications/data/coronavirus-statutory-instruments-dashboard)
 - [Domestic abuse killings double *](https://www.theguardian.com/society/2020/apr/15/domestic-abuse-killings-more-than-double-amid-covid-19-lockdown)
 - [Predatory pricing on Amazon *](https://blog.datahut.co/covid-19-and-predatory-pricing-online/)
+
+
+**RESOURCES**
+
+[Newton, John. *Blogpost: Counting Covid-19 deaths*. UK.GOV, August 2020](https://publichealthmatters.blog.gov.uk/2020/08/12/behind-the-headlines-counting-covid-19-deaths/)
+[Georgia public health. What is a moving average and why is it useful? July 2020](https://www.georgiaruralhealth.org/blog/what-is-a-moving-average-and-why-is-it-useful/)
+[*Chessboard rice legend for exponential growth*, Video, 2'](https://www.youtube.com/watch?v=byk3pA1GPgU)
+Logarithmic scales, NY Times (https://www.nytimes.com/2020/03/20/health/coronavirus-data-logarithm-chart.html)
+[Field, Kenneth. *Mapping coronavirus data responsibly*. Feb 2020](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/ )
+[Stevens, Harry. “Why outbreaks like coronavirus spread exponentially, and how to flatten the curve”, *Washington Post*, March 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+[Reuters. *A deluge of death in northern Italy*, March 2020](https://graphics.reuters.com/HEALTH-CORONAVIRUS-LOMBARDY/0100B5LT46P/index.html)
