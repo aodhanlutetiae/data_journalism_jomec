@@ -1,7 +1,5 @@
 **PREPARATORY WORK**
 
-** NOTE - PUT MORE SCRAPING PRACTICE HERE IN WEDS WORKSHOP
-
 Do
 -
 -
@@ -10,15 +8,19 @@ Read
 -
 -
 
+
 **CONCEPTS**
 
-- GDPR
-- Web scraping
+- GDPR & DPA
 - Licences
-- Visualisation ethics
+- Visualisation ethics revisited
+- Web scraping revisited
 
 
 **PRACTICE**
+
+- Quiz sheet
+- Writing newslines
 
 
 **RESOURCES**
