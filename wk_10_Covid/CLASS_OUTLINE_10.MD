@@ -16,6 +16,7 @@
 - [UK gov Covid API (v2) with GUI](https://coronavirus.data.gov.uk/details/download)
 - [Public Health Wales dashboard + data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
 - [ONS Covid-related datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist?filter=datasets)
+- [ONS Project Cairo](https://onsvisual.github.io/project_cairo/index.html)
 - [NHS API](https://developer.api.nhs.uk/coronavirus/api)
 
 

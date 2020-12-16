@@ -38,8 +38,9 @@
 
 **RESOURCES — SOFTWARE**
 
-- [Freecodecamp course on beautiful soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
-- [Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
+- [Freecodecamp course on Beautiful Soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
+- [The programming historian's Intro to Beautiful Soup](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
+- [Datacamp course on Xpath and Scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
 
 
 **RESOURCES — PRACTICE SITES**
