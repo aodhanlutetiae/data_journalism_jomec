@@ -48,6 +48,7 @@
 - [UK Met office](https://www.metoffice.gov.uk/services/data/datapoint)
 - [Guardian](https://open-platform.theguardian.com/access/)
 - [They work for you](https://www.theyworkforyou.com/api/)
+- [Strava](https://developers.strava.com/)
 - [Twitter (extra authentication)](https://developer.twitter.com/en/docs/twitter-api)
 - [Facebook ad library (extra authentication)](https://www.facebook.com/ads/library/api)
 
