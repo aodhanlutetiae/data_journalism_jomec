@@ -4,7 +4,7 @@
 
 **CONCEPTS**
 
-- Revision of first six weeks' material
+- Revision of material so far
 - Pandas basic (importing, cleaning, basic analysis)
 - Pandas advanced (groupby, joins, geopandas)
 - Cross interrogation of datasets (databases and 'keyid' joins)
