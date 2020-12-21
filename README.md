@@ -21,8 +21,8 @@ This is the material and weekly structure for the Data Journalism course taught 
 - Week 7 — ** PRODUCTION
 - Week 8 — APIs
 - Week 9 — Scraping for journalism (one)
-- Week 10 — Ethical & Legal
-- Week 11 — Scraping for journalism (two)
+- Week 10 — Covid-19
+- Week 11 — Ethical & Legal
 - Week 12 — ** PRODUCTION
 
 **Assignments**
