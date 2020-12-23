@@ -32,7 +32,7 @@
 - Clean the dataset to fix duplication, incorrect datatypes, typos
 - Analyse the data (30K rows) for possible newslines
 
-"Covid business charticle.pdf" (file also supplied as "business_data_q3_uk.xlsx")
+"Covid business charticle exercise.pdf" (file also supplied as "business_data_q3_uk.xlsx")
 - Download the dataset indicated and produce a charticle
 - Have it subedited by a classmate
 

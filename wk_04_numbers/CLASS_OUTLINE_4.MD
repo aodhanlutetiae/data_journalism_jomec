@@ -6,7 +6,7 @@
 — Do
 - Install Anaconda and have Jupyter notebook running. Import pandas
 
-— Read (before or after class), in this order:
+— Read (in this order):
 - Blastland, Michael & Dilnot, Andrew. *The Tiger that isn’t. Seeing through a world of numbers*, Profile, 2008. "Chapter 1. Size" & "Chapter 2. Counting" or the entire book
 - Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020. "Chapter 2. Personal Experience"
 - Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of scepticism in a data-driven world*. Allen Lane, 2020. "Chapter 4. Causality" & "Chapter 10. Spotting Bullshit"
@@ -24,6 +24,7 @@
 [Not covered: statistical tests, risk & probability, sampling, graphs, log scales]
 
 **PRACTICE**
+
 Review these stories: how can they be improved numerically?
 - [NHS to lose 50,000 jobs](https://www.bbc.co.uk/news/uk-england-london-12548153)
 - [Town hall bans staff from using Facebook after they waste 572 hours in ONE month](https://www.dailymail.co.uk/news/article-1210361/Town-hall-bans-staff-using-Facebook-waste-572-hours-month.html)

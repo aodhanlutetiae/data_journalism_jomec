@@ -5,16 +5,15 @@
 - Another reference
 
 *Use long em dash, then shorter for the points that follow. No spacing*
-*Single line space between **TITLES** and text*. No double line spacing anywhere
+*Single line space between **TITLES** and text. No double line spacing anywhere*
 *Start lines capped up*
-*Numbers run 0 to 9, then ten etc.
 
 "some_file.csv"
 No full stops at end of lines but : and ? allowed
-Italicise publications
 [Not covered: x, y, z] is offset with a line break and has no bullet point
 
-STYLE GUIDE
+**STYLE GUIDE**
+Articles etc. No inverted commas. / Keep italics for publications / Videos - include runtime as: Video, 40'
 csv. capped down.
 FOI and FOIA. Capped up.
 Google. Capped up.
@@ -22,12 +21,8 @@ Guardian. No 'the'
 JSON, so also GEOJSON
 Jupiter notebook. No capital N
 Newslines. One word.
+Numbers run 0 to 9, then ten etc.
 Months. Nov or Oct (not November, October no full stops)
 pandas
 Python
 python libraries all capped down
-
-Links & publications????
-Dump inverted commas.
-Keep italics for publications
-Videos - include runtime as Video, 40'
