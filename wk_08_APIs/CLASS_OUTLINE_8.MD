@@ -1,4 +1,3 @@
-
 **PREPARATORY WORK**
 
 — Do
@@ -14,23 +13,23 @@
 - Data formats
 - What is an API?
 - Open access, API keys & OAuth
-- Terminology: endpoints, versions, REST, methods, keys, rate limits, parameters, queries
+- Terminology (endpoints, versions, REST, methods, keys, rate limits, parameters, queries)
 - API wrappers
 
 **PRACTICE**
 
-- Query (and graph) the Wikipedia pageviews API for a page whose view numbers are newsworthy
+- Query (and graph) the Wikipedia page views API for a page whose view numbers are newsworthy
 - Query UK police API to see if any bicycle thefts around a given point in Sept are going to court
-- Query the National Register for vehicle charge points in: Cardiff & Wales. Filter results.
+- Query the National Chargepoint Registry in Cardiff & Wales. Filter results
 
 **APIs**
 
 — APIs without keys
 - [UK postcodes](https://postcodes.io/)
-- [UK National Chargepoint Registry ](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
+- [UK National Chargepoint Registry](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
 - [Stats Wales](https://statswales.gov.wales/Help/Catalogue#APIEndpointsExplained)
 - [UK police](https://data.police.uk/docs/)
-- [Wikipedia pageviews](https://wikimedia.org/api/rest_v1/#/)
+- [Wikipedia page views](https://wikimedia.org/api/rest_v1/#/)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [UK data election](https://candidates.democracyclub.org.uk/api/docs/next/)
 - [UK food hygiene (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
@@ -54,7 +53,7 @@
 
 — Mapping APIs
 - [Google mapping bundle](https://developers.google.com/maps/documentation)
-- [OSM (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
+- [Open Street Map (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
 - [Mapbox bundle](https://docs.mapbox.com/api/)
 - [Carto bundle](https://carto.com/developers/)
 
@@ -64,11 +63,10 @@
 - [Star Wars](https://swapi.dev/)
 - [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/)
 
-
 **RESOURCES**
 
 - [BBC 2019 data-driven report on electric charging points](https://github.com/BBC-Data-Unit/electric-car-charging-points)
-- [Opencorporates API tutorial by FT's Max Harlow](https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)
+- [Opencorporates API tutorial by the FT's Max Harlow](https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis)
 - [Jonathan Soma's short Spotify API example](http://jonathansoma.com/lede/foundations/classes/04/class/)
 - [Global API list](https://www.programmableweb.com/apis/directory)
 - [Github list of APIs](https://github.com/public-apis/public-apis)

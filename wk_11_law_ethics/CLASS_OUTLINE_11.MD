@@ -17,7 +17,7 @@ Read
 - Freedom of Information Act 2000
 - Local Government Act 2000
 - Data Protection Act 2018 (& GDPR)
-- Elections, Official secrets, copyright
+- Elections, Official secrets, sources, copyright
 - Licences
 - Overview of data ethics field (what we're not covering in depth!)
 - Bias. A statistical notion *and* a current term for being unfair through use of data
