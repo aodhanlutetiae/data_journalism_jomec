@@ -1,14 +1,15 @@
 **PREPARATORY WORK**
 
-— [Houston, Brant. From computer-assisted reporting to computational journalism. 2019. Video](https://www.journalismfestival.com/programme/2019/computer-assisted-reporting-a-practical-guide)
-
-— [Pilhofer, Aron. Getting started with datajournalism. 2017. Video](https://www.youtube.com/watch?v=DYzDnufwHNE)
+— Read
+- [Houston, Brant. From computer-assisted reporting to computational journalism. 2019. Video](https://www.journalismfestival.com/programme/2019/computer-assisted-reporting-a-practical-guide)
+- [Pilhofer, Aron. Getting started with datajournalism. 2017. Video](https://www.youtube.com/watch?v=DYzDnufwHNE)
 
 **CONCEPTS**
-- variables
-- data types
-- averages
-- spreadsheets & pivot tables
+
+- Variables
+- Data types
+- Averages
+- Spreadsheets & pivot tables
 
 **PRACTICE**
 
@@ -21,13 +22,11 @@
 
 "cardiff_weather.csv"
 — Using a pivot table:
-
 - Find the wettest October in the last 20 years
 - Find the second-wettest October in the last 20 years
 
 "forbes_richlist.csv"
 — Answer the following questions using a pivot table:
-
 - In 2010, which category made the most? How much did models make in 2013?
 - Which year was the best for athletes in terms of total earnings?
 - We're supposed to have 15 years, with 100 people listed each year (=1500). But we have more. Get a count of number of people listed for every year

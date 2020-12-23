@@ -28,7 +28,7 @@
 
 - ["Incorrect Data in the Widely Used Inside Airbnb Dataset", Abdulkareem Alsudais, 2020](https://arxiv.org/abs/2007.03019)
 
-**PANDAS (CARDIFF UNIVERSITY LIBRARY) RESOURCES**
+**PANDAS RESOURCES (CARDIFF UNIVERSITY LIBRARY)**
 
 - [Chen, *Pandas for everyone*, 2017](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125210150002420)
 - [Harrison, *Pandas 1 x cookbook*, 2020](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156095570002420)
