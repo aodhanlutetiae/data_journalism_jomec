@@ -23,7 +23,7 @@
 2. Brainstorm three FOI requests you might make about:
 - Council *staff* (e.g how many sick days did Council staff use last year?)
 - Municipal libraries
-- Now compare with the Claire Miller's [Great Big List](http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/)
+- Now compare with Claire Miller's [Great Big List](http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/)
 
 3. Find the data source online that supplies the following data:
 - Rough number of fridges / white goods dumped daily in Cardiff over the last ten years
