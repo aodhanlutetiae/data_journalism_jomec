@@ -1,8 +1,8 @@
 **PREPARATORY WORK**
 
 — Read
-- [Houston, Brant. From computer-assisted reporting to computational journalism. 2019. Video](https://www.journalismfestival.com/programme/2019/computer-assisted-reporting-a-practical-guide)
-- [Pilhofer, Aron. Getting started with datajournalism. 2017. Video](https://www.youtube.com/watch?v=DYzDnufwHNE)
+- [Houston, Brant. From computer-assisted reporting to computational journalism. 2019. Video, 1hr](https://www.journalismfestival.com/programme/2019/computer-assisted-reporting-a-practical-guide)
+- [Pilhofer, Aron. Getting started with datajournalism. 2017. Video, 40'](https://www.youtube.com/watch?v=DYzDnufwHNE)
 
 **CONCEPTS**
 

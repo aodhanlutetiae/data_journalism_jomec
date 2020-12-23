@@ -12,15 +12,22 @@
 "some_file.csv"
 No full stops at end of lines but : and ? allowed
 Italicise publications
-[Not covered: x, y, z] is offset with a line break
+[Not covered: x, y, z] is offset with a line break and has no bullet point
 
 STYLE GUIDE
 csv. capped down.
+FOI and FOIA. Capped up.
 Google. Capped up.
+Guardian. No 'the'
+JSON, so also GEOJSON
+Jupiter notebook. No capital N
 Newslines. One word.
-Months. Nov or Oct (not November, October)
+Months. Nov or Oct (not November, October no full stops)
 pandas
-python
+Python
 python libraries all capped down
 
 Links & publications????
+Dump inverted commas.
+Keep italics for publications
+Videos - include runtime as Video, 40'
