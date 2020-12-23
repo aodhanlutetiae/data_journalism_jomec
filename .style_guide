@@ -1,31 +1,27 @@
-**PREPARATORY WORK**
-
-— Do something
-- Reference
-- Another reference
-
-*Use long em dash, then shorter for the points that follow. No spacing*
-*Single line space between **TITLES** and text. No double line spacing anywhere*
-*Start lines capped up*
-*where possible cap titles down so No Titles Like This Please*
-
-"some_file.csv"
-No full stops at end of lines but : and ? allowed
-[Not covered: x, y, z] is offset with a line break and has no bullet point
-
 **STYLE GUIDE**
-Articles etc. No inverted commas. / Keep italics for publications / Videos - include runtime as: Video, 40'
+
+Articles and references. No inverted commas. Keep italics for publications. Videos include runtime as in Video, 40'
 Covid
-csv. capped down.
-FOI and FOIA. Capped up.
-Google. Capped up.
+csv. Capped down
+filenames. "some_file.csv"
+FOI and FOIA. Capped up
+Google. Capped up
 Guardian. No 'the'
 JSON, so also GEOJSON
 Jupiter notebook. No capital N
-Newslines. One word.
-Numbers run 0 to 9, then ten etc.
-Months. Nov or Oct (not November, October no full stops). But: March, April, May, June, July
-pandas
+Newsline. One word.
+Numbers. Run 0 to 9, then ten etc.
+Months. Nov or Oct etc. (no full stops), but: March, April, May, June, July
+pandas. Like all Python libraries, capped down
+Punctuation. No full stops at end of lines but : and ? allowed
 Python
 python libraries all capped down
+Titles. Of articles etc. Cap down wherever possible
 XML
+
+**Also**
+
+- Use long em dash, then shorter for the bullet points that follow. No double spacing between lines
+- Single line space between **TITLES** and text.
+- Lines begin capped up
+- [Not covered: x, y, z] is offset with a line break and has no bullet point
