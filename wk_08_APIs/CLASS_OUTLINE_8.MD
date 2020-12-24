@@ -35,7 +35,7 @@
 - [UK food hygiene (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [US Press Freedom Tracker](https://pressfreedomtracker.us/data/)
-- [UK parliament](http://explore.data.parliament.uk/)
+- [Range of UK parliament APIs](https://developer.parliament.uk/)
 - [UK government Covid data](https://coronavirus.data.gov.uk/details/developers-guide)
 
 — APIs requiring keys
@@ -72,4 +72,4 @@
 - [Github list of APIs](https://github.com/public-apis/public-apis)
 - [Gentle guide to APIs for data journalists by Jake Kara](https://medium.com/trendct-data/a-gentle-guide-to-apis-for-data-journalists-2a6b0e6fcc1a)
 - [Brian Cooksey API guide](https://zapier.com/learn/apis/)
-- [Introduction: API queries about the ISS](https://www.dataquest.io/blog/python-api-tutorial/)
+- [API queries about the ISS (Introduction)](https://www.dataquest.io/blog/python-api-tutorial/)

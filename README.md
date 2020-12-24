@@ -7,16 +7,16 @@ This is the material and weekly structure for the Data Journalism module taught 
 **Course outline**
 
 - Week 1 — Spreadsheets, pivot tables and interrogating data
-- Week 2 — A story from big messy data & writing charticles
+- Week 2 — A story from big messy data & producing charticles
 - Week 3 — Data sources (including Freedom of Information)
 - Week 4 — How to be a numerate journalist
 - Week 5 — Mapping stories
 - Week 6 — Visualising data
 - Week 7 — Production: airbnb
-- Week 8 — APIs
+- Week 8 — APIs for journalism
 - Week 9 — Web scraping for journalism
 - Week 10 — Covid-19
-- Week 11 — Ethical & Legal
+- Week 11 — Ethical & legal skills
 - Week 12 — Production
 
 **Assignments**
@@ -27,7 +27,7 @@ These fell in week four, in week eight and just after week 12: 1. numerical anal
 
 - [Reading list](https://docs.google.com/document/d/15dNzLex3VdkcRjcXvyc8mKoXOFhBJHl2kVZeCUICLfQ/edit?usp=sharing)
 - [List of random datasets](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
-- [Quite a few Python tutorials, thanks to the good people at Datacamp.com](https://learn.datacamp.com/search?q=python)
+- [Quite a few Python tutorials, thanks to Datacamp](https://learn.datacamp.com/search?q=python)
 
 **Licence**
 
