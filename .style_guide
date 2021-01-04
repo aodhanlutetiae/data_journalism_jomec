@@ -1,8 +1,7 @@
 **STYLE GUIDE**
 
 Articles and references. No inverted commas. Keep italics for publications. Videos include runtime as in Video, 40'
-coronavirus. Capped down
-Covid-19
+coronavirus. Capped down, but Covid-19
 csv. Capped down
 filenames. "some_file.csv"
 FOI and FOIA. Capped up
@@ -17,7 +16,7 @@ pandas. Like all Python libraries, capped down
 Punctuation. No full stops at end of lines but : and ? allowed
 Python
 python libraries all capped down
-Titles. Of articles etc. Cap down wherever possible
+Titles (of articles etc.). Cap down wherever possible
 XML
 
 **Also**
