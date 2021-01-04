@@ -1,6 +1,6 @@
 **PREPARATORY WORK**
 
-— Read
+— Watch
 - [Houston, Brant. From computer-assisted reporting to computational journalism. 2019. Video, 1hr](https://www.journalismfestival.com/programme/2019/computer-assisted-reporting-a-practical-guide)
 - [Pilhofer, Aron. Getting started with datajournalism. 2017. Video, 40'](https://www.youtube.com/watch?v=DYzDnufwHNE)
 
@@ -29,7 +29,7 @@
 — Answer the following questions using a pivot table:
 - In 2010, which category made the most? How much did models make in 2013?
 - Which year was the best for athletes in terms of total earnings?
-- We're supposed to have 15 years, with 100 people listed each year (=1500). But we have more. Get a count of number of people listed for every year
+- We're supposed to have 15 years, with 100 people listed each year (=1500). But we have more. Get a count of the number of people listed for each year
 - Did the top 100 make more money, on average, in 2006 or 2007?
 - What were the total earnings of comedians, musicians and hiphop impresarios -- taken as a single group -- in 2017?
 - What was the lowest-earning year for athletes?

@@ -13,7 +13,7 @@
 **PRACTICE**
 
 - Scrape a basic list of the 103 cities on offer on [insideairbnb](http://insideairbnb.com/get-the-data.html)
-- Pick a city, get and analyse the data for storylines
+- Pick a city, get the data and analyse for storylines
 - Review previous stories (below)
 
 **RESOURCES**

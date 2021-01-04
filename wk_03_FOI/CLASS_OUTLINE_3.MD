@@ -32,12 +32,9 @@
 - Number of sheep in Powys over the last ten years
 - If more students were getting free school meals last year in Newport or Caerphilly
 - Total number of CCTV cameras in Cardiff (with rough locations)
-- Number of entries in IMDB that mention Wales or Welsh
 - Football banning orders going up / down in England & Wales + why people are arrested
 
 4. Using one of the datasets just listed, and the NYT brainstorming questions, interrogate the dataset for potential newslines or lines of investigation
-
-5. Read [FOI appeal going to tribunal](https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances)
 
 **DATASET PRACTICE**
 

@@ -1,10 +1,10 @@
 **PREPARATORY WORK**
 
 — Watch
-[Hans Rosling video](https://www.youtube.com/watch?v=hVimVzgtD6w)
+- [Hans Rosling video](https://www.youtube.com/watch?v=hVimVzgtD6w)
 
 — Read
-[Stevens, Harry. Why outbreaks like Coronavirus spread exponentially and how to flatten the curve. *The Washington Post*, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+- [Stevens, Harry. Why outbreaks like Coronavirus spread exponentially and how to flatten the curve. *The Washington Post*, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 — Review
 - [Pudding](https://pudding.cool/)
@@ -13,14 +13,14 @@
 - [Economist 'mistakes', 2019](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
 - [Visualising Data, 2020 selection](https://www.visualisingdata.com/2020/09/best-of-the-visualisation-web-may-2020/)
 
-**CONCEPTS**
+**CONCEPTS & TOOLS**
 
 - Visualisation for data exploration
 - Statistical graphs: Histograms, boxplots, the Anscombe graphs (and the datasaurus)
 - Hand-drawn visualisation: [Mona Chalabi's Instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
 - Visualisation Checklist & Visualisation ethics
-- Tools: Datawrapper, Flourish, Tableau
-- Python visualisation libraries (pandas, matplotlib, seaborn)
+- Datawrapper, Flourish, Tableau
+- Python visualisation libraries (matplotlib, pandas, seaborn)
 - Smaller tools: [Knightlab tools](https://knightlab.northwestern.edu/), [Google gifmaker](https://datagifmaker.withgoogle.com/)
 
 [Not covered: log scale axes, some Python libraries (bokeh, plotly, pygal), networks and graph theory]
@@ -38,6 +38,6 @@
 - [Introduction to data visualisation in Python, Gilbert Tanner](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
 - [Picking the right colors, Mike Cisneros](http://www.storytellingwithdata.com/blog/2020/5/6/picking-the-right-colors)
 - [LSE blogpost on logarithmic scales](https://blogs.lse.ac.uk/covid19/2020/05/19/the-public-doesnt-understand-logarithmic-graphs-often-used-to-portray-covid-19/)
-- [Kaggle introductory course on data visualisation](https://www.kaggle.com/learn/data-visualization)
+- [Kaggle course on data visualisation (introduction)](https://www.kaggle.com/learn/data-visualization)
 - [Datacamp course on matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 - [Datacamp course on Python statistical visualisation (seaborn)](https://learn.datacamp.com/courses/introduction-to-data-visualization-in-python)

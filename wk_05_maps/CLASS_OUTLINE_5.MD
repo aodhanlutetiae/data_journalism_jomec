@@ -1,17 +1,17 @@
 **PREPARATORY WORK**
 
 — Do
-- Get Datawrapper and Flourish accounts
-- Get Tableau Desktop / Public running
+- Set up a Flourish account
+- Get Tableau running (Desktop or Public)
 - Get Carto login (via github education)
 - Install QGIS 3.10
 
 — Read
 - [Ericson, Matthew. When maps shouldn’t be maps. 2011](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/ )
-- [Marcoux, Jacques. Geographic information systems, a use case for journalists. *Datajournalism.com*, Nov 2019](https://datajournalism.com/read/longreads/geographic-information-systems-a-use-case-for-journalists)
+- [Marcoux, Jacques. Geographic information systems, a use case for journalists. *Datajournalism.com*. 2019](https://datajournalism.com/read/longreads/geographic-information-systems-a-use-case-for-journalists)
 - [Mason, Betty. Election maps are everywhere. Don’t let them fool you. *New York Times*. 2020](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
 
-**CONCEPTS**
+**CONCEPTS & TOOLS**
 
 - Latitude & longitude, projection, xy coordinates
 - Geodata filetypes (csv, KML & KMZ & GML, shp, GEOJSON)
@@ -32,15 +32,15 @@
 
 **HOMEWORK (Colab notebooks supplied)**
 
-- Line map. Construct a line map of flight PS752 that was downed in Iran from "ps752.csv" (gathered [here](https://www.flightradar24.com/blog/ukrainian-flight-ps752-crashes-shortly-after-take-off-from-tehran/)) (notebook using mplleaflet, folium, matplotlib)
+- Line map. Construct a line map of flight PS752 that was show down in Iran, from "ps752.csv" (gathered [here](https://www.flightradar24.com/blog/ukrainian-flight-ps752-crashes-shortly-after-take-off-from-tehran/)) (notebook using mplleaflet, folium, matplotlib)
 - Points map. Construct a points map of several sport facilities in Cardiff (notebook using shapefiles, geopandas)
 
-[Not covered: Animation, Realtime updating, Python modules: geoplotlib, cartopy, GEOJSON, geopandas, descartes, gmaps, gpxpy]
+[Not covered: Animation, Realtime updating, Python modules: geoplotlib, cartopy, descartes, gmaps, gpxpy]
 
 **RECOMMENDED RESOURCES**
 
 - [Field, Kenneth & Dorling, Danny. UK election cartography, *International Journal of cartography*. 2/2, 2016](https://www.geog.ox.ac.uk/research/transformations/gis/papers/2017/UK_election_cartography.pdf)
-- [Giulani, Diego & Napolitano, Maurizio. Online course materials. Geospatial analysis and representation for data science. University of Trento, 2020](https://napo.github.io/geospatial_course_unitn/)
+- [Giulani, Diego & Napolitano, Maurizio. Online course materials: Geospatial analysis and representation for data science. University of Trento, 2020](https://napo.github.io/geospatial_course_unitn/)
 - [Knight Center. Online course: Intro to mapping for journalists. 2018](https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/ )
 - [ONS. A beginner's guide to UK geography, 2020](https://www.arcgis.com/sharing/rest/content/items/86ebfbad61c941bebbc7edbf2b985efe/data)
 - [ONS. UK geographic codes reference, 2020](https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2)

@@ -18,7 +18,7 @@
 - 'Experiential' averages
 - Dispersion: range, quartiles & standard deviation
 - Correlation: using and graphing Pearson, avoiding causal assumptions
-- Counting: defining the thing, questionnaires, crime stats
+- Counting: defining the thing, questionnaires, crime statistics
 - Percentages: advantages & disadvantages
 
 [Not covered: statistical tests, risk & probability, sampling, graphs, log scales]

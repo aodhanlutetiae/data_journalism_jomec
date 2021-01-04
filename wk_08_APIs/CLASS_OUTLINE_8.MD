@@ -18,7 +18,7 @@
 
 **PRACTICE**
 
-- Query (and graph) the Wikipedia page views API for a page whose view numbers are newsworthy
+- Query (and graph) the Wikipedia page views API for a page whose view numbers might be newsworthy
 - Query UK police API to see if any bicycle thefts around a given point in Sept are going to court
 - Query the National Chargepoint Registry in Cardiff & Wales. Filter results
 

@@ -1,8 +1,8 @@
 **PREPARATORY WORK**
 
 — Do
-- Set up your own [Datawrapper](https.www.datawrapper.de/signin) account. Make a simple graph
-- Open a Google colaboratory notebook and print 'Hello world!'
+- Set up your own [Datawrapper](https.www.datawrapper.de/signin) account.
+- Open a Google colaboratory notebook and print 'Hello, World!'
 
 — Read
 - [Thomas, Amber. “How to go from idea, to data, to story”. *The Pudding*](https://pudding.cool/process/pivot-continue-down/)
@@ -39,4 +39,4 @@
 **Note**
 
 Source for "films_imdb_post2017.csv":
-This is a file of 30,000 films listed on IMDB. It was built from the files available [here](https://datasets.imdbws.com/). The 'basics' file of over 7 million titles was joined to the 'ratings' file, giving about 1 million titles. All adult titles were removed along with all non-films (tv series etc.) and then all titles from just the last four years were kept, giving a dataset of about 30,000 films from 2017 to 2020 (although note that 2020 carries less data as the year is not over yet and also possibly because production has been slowed by the pandemic).
+This is a file of 30,000 films that are listed on IMDB. It was built from the files available [here](https://datasets.imdbws.com/). The 'basics' file of over seven million titles was joined to the 'ratings' file, giving about one million titles. All adult titles were removed along with all non-films (tv series etc.) and then only titles from the last four years were kept, giving a dataset of about 30,000 films from 2017 to 2020 (although note that 2020 carries less data as the year is not over yet and also possibly because production has been slowed by the pandemic).
