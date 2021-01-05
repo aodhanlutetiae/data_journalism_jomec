@@ -1,32 +1,28 @@
 **PREPARATORY WORK**
 
-Do
--
--
-
 Read
--
--
 
+- [Editors' Code of Practice](https://www.ipso.co.uk/editors-code-of-practice/)
+- [NUJ Ethical code](https://www.nuj.org.uk/about/nuj-code/)
 
 **CONCEPTS**
 
-- Visualisation ethics (already covered)
-- Web scraping ethics (already covered)
+- Official Secrets Act 1989
 - Computer Misuse Act 1990
-- Freedom of Information Act 2000
-- Local Government Act 2000
-- Data Protection Act 2018 (& GDPR)
-- Elections, Official secrets, sources, copyright
-- Licences
-- Overview of data ethics field (what we're not covering in depth!)
-- Bias. A statistical notion *and* a current term for being unfair through use of data
+- RIPA 2000
+- DPA 2018 (inc. GDPR)
+- Elections, Copyright (& licences), Defamation
+- Ethical frameworks for journalism (IPSO, NUJ, BBC)
+[already covered: Web scraping ethics, Visualisation ethics, FOIA]
 
 **PRACTICE**
 
-- Quiz sheet (UK law basics & What do you do in data situation x?)
-- Writing newslines
+- Quiz sheet (What do we do if...?)
 
 **RESOURCES**
+
+- [Editors' Code of Practice](https://www.ipso.co.uk/editors-code-of-practice/)
+- [NUJ Ethical code](https://www.nuj.org.uk/about/nuj-code/)
+- [BBC Editorial Guidelines](https://www.bbc.com/editorialguidelines/)
 
 - [Knight Center. Ethics and equity in data journalism. Online course. 2020](https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/ )
