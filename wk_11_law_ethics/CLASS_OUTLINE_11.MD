@@ -8,7 +8,7 @@ Read
 
 - Official Secrets Act 1989
 - Computer Misuse Act 1990
-- DPA 2018 (& GDPR 2016)
+- Data Protection Act 2018 (& GDPR 2016)
 - Elections, Copyright (& licences), Defamation
 - Ethical frameworks for journalism (IPSO, NUJ, BBC)
 

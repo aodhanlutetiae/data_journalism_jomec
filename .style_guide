@@ -1,6 +1,6 @@
 **STYLE GUIDE**
 
-Articles and references. No inverted commas. Keep italics for publications. Videos include runtime as in Video, 40'
+Articles and references. No inverted commas. Use italics only for publication titles. Videos include runtime as in Video, 40'
 coronavirus. Capped down, but Covid-19
 csv. Capped down
 filenames. "some_file.csv"
@@ -9,7 +9,6 @@ Google. Capped up
 Guardian. No 'the'
 JSON, so also GEOJSON
 Jupiter notebook. No capital N
-matplotlib
 Newsline. One word.
 Numbers. Run 0 to 9, then ten etc.
 NY Times
@@ -18,7 +17,6 @@ pandas. Like all Python libraries, capped down
 Punctuation. No full stops at end of lines but : and ? allowed
 Python
 python libraries all capped down
-seaborn
 shp. Capped down.
 Titles (of articles etc.). Cap down wherever possible
 XML
