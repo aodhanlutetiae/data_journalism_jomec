@@ -3,6 +3,7 @@
 Read
 
 - IPSO [Editors' Code of Practice](https://www.ipso.co.uk/editors-code-of-practice/) & its [FAQs](https://www.ipso.co.uk/faqs/editors-code/)
+- [Impress Standards Code](https://www.impress.press/standards/)
 
 **CONCEPTS**
 
