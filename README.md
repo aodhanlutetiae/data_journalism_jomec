@@ -1,4 +1,4 @@
-# dj2020
+# data_journalism_jomec
 
 **Data Journalism 2020-21, JOMEC (Cardiff University), MCT559**
 

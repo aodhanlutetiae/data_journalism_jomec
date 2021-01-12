@@ -18,16 +18,16 @@ Read
 
 **PRACTICE**
 
-- Quiz sheet for legal and ethical situations
-- Writing practice
+- Quiz for legal and ethical situations
+- News writing practice
 
 **RESOURCES**
 
 - "Ethical & legal scraping checklist.pdf"
 
-- [Associated Press. News values & principles](https://www.ap.org/about/news-values-and-principles/)
+- [Associated Press. News values & principles](https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf)
 - [BBC Editorial Guidelines](https://www.bbc.com/editorialguidelines/)
-- [Editors' Code of Practice](https://www.ipso.co.uk/editors-code-of-practice/)
+- [IPSO Editors' Code of Practice](https://www.ipso.co.uk/editors-code-of-practice/)
 - [Ethical Journalism Network. Copyright - how to protect it, how not to breach it](https://ethicaljournalismnetwork.org/resources/courses/copyright)
 - [Github. The legal side of Open Source](https://opensource.guide/legal/)
 - [Github. Licensing a repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
@@ -38,5 +38,5 @@ Read
 - [Knight Center. Ethics and equity in data journalism. Online course. 2020](https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/)
 - [McNae. Official Secrets (Extended chapter 33). 2020](https://learninglink.oup.com/access/mcnaes25e-resources#tag_chapter-33)
 - [McNae. Fixtures lists, databases, and tide tables (Extended chapter 29). 2020](https://learninglink.oup.com/access/mcnaes25e-resources#tag_chapter-29)
-- [NUJ Ethical code](https://www.nuj.org.uk/about/nuj-code/)
+- [NUJ Code of conduct](https://www.nuj.org.uk/about/nuj-code/)
 - [Reuters. Standards & Values](https://handbook.reuters.com/index.php?title=Standards_and_Values)
