@@ -2,7 +2,7 @@
 
 - Nothing to prepare this week!
 
-**CONCEPTS**
+**CONTENT**
 
 - Revision of material so far
 - Pandas basic (importing, cleaning, basic analysis)

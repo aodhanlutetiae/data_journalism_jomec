@@ -15,7 +15,7 @@
 - [Ontario's alcohol cheaper than Quebec's (Fr), 2015](https://journalmetro.com/actualites/national/789697/saq-des-centaines-de-produits-moins-chers-en-ontario/)
 - [Are you paying too much rent? (Fr), 2015](https://ici.radio-canada.ca/nouvelle/725385/loyer-abordable-kijiji-annonces-prix-logements-location)
 
-**CONCEPTS**
+**CONTENT**
 
 - Internet mechanics: CURL, CTRL + U, CTRL + OPT + I, =IMPORTHTML()
 - Beautiful soup for parsing

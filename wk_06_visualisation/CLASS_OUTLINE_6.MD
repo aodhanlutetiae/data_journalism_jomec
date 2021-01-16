@@ -13,7 +13,7 @@
 - [Economist 'mistakes', 2019](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
 - [Visualising Data, 2020 selection](https://www.visualisingdata.com/2020/09/best-of-the-visualisation-web-may-2020/)
 
-**CONCEPTS & TOOLS**
+**CONTENT & TOOLS**
 
 - Visualisation for data exploration
 - Statistical graphs: Histograms, boxplots, the Anscombe graphs (and the datasaurus)

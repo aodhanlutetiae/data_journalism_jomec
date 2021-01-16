@@ -12,7 +12,7 @@
 - Bergstrom, Carl T. & West, Jevin D. *Calling Bullsh-t. The art of scepticism in a data-driven world*. Allen Lane, 2020. "Chapter 4. Causality" & "Chapter 10. Spotting Bullshit"
 - Spiegelhalter, David. *The Art of Statistics. Learning from Data*. Pelican, 2019. "Chapter 2. Lots of numbers"
 
-**CONCEPTS**
+**CONTENT**
 - Size & scale, guesstimation
 - Mean, median & mode and avoiding related pitfalls
 - 'Experiential' averages

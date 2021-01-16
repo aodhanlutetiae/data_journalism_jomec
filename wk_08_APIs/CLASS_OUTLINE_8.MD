@@ -8,7 +8,7 @@
 - [APIs for journalism, Datajournalism.com](https://datajournalism.com/read/newsletters/apis-for-journalism)
 - [Intro to APIs, Brian Cooksey](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
 
-**CONCEPTS**
+**CONTENT**
 
 - Data formats
 - What is an API?

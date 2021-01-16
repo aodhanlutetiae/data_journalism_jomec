@@ -16,7 +16,7 @@
 - [Data-driven stories: brainstorming guide](https://docs.google.com/document/d/1-RDdV7M-Wkop3REshf3bz0hNZ5FxPoXQd91G858ZgyI/edit?usp=sharing)
 - [Data-driven story forms: examples](https://docs.google.com/document/d/1BXj0M3UYheyg0mLIUrEkg3sxHO4Q3C7qdLlh-jbYq4E/edit?usp=sharing)
 
-**CONCEPTS**
+**CONTENT**
 
 - Cleaning, wrangling large datasets
 - More pivot tables

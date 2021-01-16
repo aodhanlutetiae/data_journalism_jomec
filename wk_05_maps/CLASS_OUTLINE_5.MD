@@ -11,7 +11,7 @@
 - [Marcoux, Jacques. Geographic information systems, a use case for journalists. *Datajournalism.com*. 2019](https://datajournalism.com/read/longreads/geographic-information-systems-a-use-case-for-journalists)
 - [Mason, Betty. Election maps are everywhere. Don’t let them fool you. *New York Times*. 2020](https://www.nytimes.com/interactive/2020/10/30/opinion/election-results-maps.html)
 
-**CONCEPTS & TOOLS**
+**CONTENT & TOOLS**
 
 - Latitude & longitude, projection, xy coordinates
 - Geodata filetypes (csv, KML & KMZ & GML, shp, GEOJSON)

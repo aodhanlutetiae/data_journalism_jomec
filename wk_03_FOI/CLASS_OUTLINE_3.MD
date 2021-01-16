@@ -10,7 +10,7 @@
 - [Burgess, Matthew. Some of the best stories based on FOI requests in 2017](https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/)  
 - [TBIJ goes to tribunal over FOI refusal](https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances)
 
-**CONCEPTS**
+**CONTENT**
 
 - Background of FOIA
 - Workings of FOIA

@@ -2,7 +2,7 @@
 
 - Nothing to prepare this week!
 
-**CONCEPTS**
+**CONTENT**
 
 - The trouble with counting
 - Rolling averages, exponential growth, logarithmic scale axes
