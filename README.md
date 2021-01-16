@@ -35,4 +35,4 @@ These fell in week four, in week eight and just after week 12: 1. numerical anal
 
 **Licence**
 
-[Creative Commons Attribution 4.0 International](https://github.com/aodhanlutetiae/dj2020/blob/master/LICENSE)
+- [Creative Commons Attribution 4.0 International](https://github.com/aodhanlutetiae/dj2020/blob/master/LICENSE)
