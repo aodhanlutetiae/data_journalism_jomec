@@ -34,7 +34,7 @@
 - Total number of CCTV cameras in Cardiff (with rough locations)
 - Football banning orders going up / down in England & Wales + why people are arrested
 
-4. Using one of the datasets just listed, and the NYT brainstorming questions, interrogate the dataset for potential newslines or lines of investigation
+4. Using one of the datasets just listed, and the NYT brainstorming questions, interrogate the dataset for potential news lines or lines of investigation
 
 **DATASET PRACTICE**
 
