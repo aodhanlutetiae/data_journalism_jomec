@@ -15,5 +15,5 @@ Story: News line analysis, visualisation & write-up.
 
 **IN CONCLUSION**
 
-- What this module *didn't* cover (OSINT, SQL, investigative, graph networks)
+- What this module *didn't* cover (OSINT, SQL, graph networks)
 - [Student feedback](https://forms.gle/ag5fVbcvJDMYi41Z7)
