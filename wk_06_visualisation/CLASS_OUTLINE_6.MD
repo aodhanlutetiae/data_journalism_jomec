@@ -1,10 +1,10 @@
 **PREPARATORY WORK**
 
 — Watch
-- [Hans Rosling video](https://www.youtube.com/watch?v=hVimVzgtD6w)
+- [Hans Rosling talk](https://www.youtube.com/watch?v=hVimVzgtD6w), Video, 20'
 
 — Read
-- [Stevens, Harry. Why outbreaks like Coronavirus spread exponentially and how to flatten the curve. *The Washington Post*, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+- [Stevens, Harry. Why outbreaks like Coronavirus spread exponentially and how to flatten the curve. *Washington Post*, 2020](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 — Review
 - [Pudding](https://pudding.cool/)
@@ -17,7 +17,7 @@
 
 - Visualisation for data exploration
 - Statistical graphs: Histograms, boxplots, the Anscombe graphs (and the datasaurus)
-- Hand-drawn visualisation: [Mona Chalabi's Instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
+- Hand-drawn visualisation:[Mona Chalabi's Instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
 - Visualisation Checklist & Visualisation ethics
 - Datawrapper, Flourish, Tableau
 - Python visualisation libraries (matplotlib, pandas, seaborn)

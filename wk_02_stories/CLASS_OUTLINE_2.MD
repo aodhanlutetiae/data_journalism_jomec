@@ -1,7 +1,7 @@
 **PREPARATORY WORK**
 
 — Do
-- Set up your own [Datawrapper](https.www.datawrapper.de/signin) account.
+- Set up your own [Datawrapper](https.www.datawrapper.de/signin) account
 - Open a Google colaboratory notebook and print 'Hello, World!'
 
 — Read

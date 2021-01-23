@@ -40,7 +40,7 @@
 **RECOMMENDED RESOURCES**
 
 - [Field, Kenneth & Dorling, Danny. UK election cartography, *International Journal of cartography*. 2/2, 2016](https://www.geog.ox.ac.uk/research/transformations/gis/papers/2017/UK_election_cartography.pdf)
-- [Giulani, Diego & Napolitano, Maurizio. Online course materials: Geospatial analysis and representation for data science. University of Trento, 2020](https://napo.github.io/geospatial_course_unitn/)
+- [Giuliani, Diego & Napolitano, Maurizio. Online course materials: Geospatial analysis and representation for data science. University of Trento, 2020](https://napo.github.io/geospatial_course_unitn/)
 - [Knight Center. Online course: Intro to mapping for journalists. 2018](https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/ )
 - [ONS. A beginner's guide to UK geography, 2020](https://www.arcgis.com/sharing/rest/content/items/86ebfbad61c941bebbc7edbf2b985efe/data)
 - [ONS. UK geographic codes reference, 2020](https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2)

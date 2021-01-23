@@ -23,7 +23,7 @@ Read
 
 **RESOURCES**
 
-- "Ethical & legal scraping checklist.pdf"
+- "Ethical & legal scraping checklist.pdf" [from week 9](https://github.com/aodhanlutetiae/data_journalism_jomec/tree/master/wk_09_scraping)
 
 - [Associated Press. News values & principles](https://www.ap.org/about/news-values-and-principles/downloads/ap-news-values-and-principles.pdf)
 - [BBC Editorial Guidelines](https://www.bbc.com/editorialguidelines/)
