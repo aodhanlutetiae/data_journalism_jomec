@@ -25,6 +25,15 @@
 **APIs**
 
 — APIs without keys
+- [UK postcodes](https://postcodes.io/)
+- [ONS](https://developer.ons.gov.uk/)
+- [UK National Chargepoint Registry](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
+- [Stats Wales](https://statswales.gov.wales/Help/Catalogue#APIEndpointsExplained)
+- [UK police](https://data.police.uk/docs/)
+- [Wikipedia page views](https://wikimedia.org/api/rest_v1/#/)
+- [Committee to Protect Journalists](https://cpj.org/data-api/)
+- [UK data election](https://candidates.democracyclub.org.uk/api/docs/next/)
+- [UK food hygiene (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
