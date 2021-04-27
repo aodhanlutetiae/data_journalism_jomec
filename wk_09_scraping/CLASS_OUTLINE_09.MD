@@ -4,6 +4,9 @@
 - Install [beautiful soup](https://pypi.org/project/beautifulsoup4/)
 - Install [lxml](https://pypi.org/project/lxml/)
 
+— Read
+- [Public interest journalism via scraping, The Markup, 2020](https://themarkup.org/news/2020/12/03/why-web-scraping-is-vital-to-democracy)
+
 — Review
 - [Dollars for docs](https://projects.propublica.org/docdollars/)
 - [Rail fares increases: charts explain passengers' frustration, 2019](https://www.bbc.co.uk/news/uk-england-46606525) & [code](https://github.com/BBC-Data-Unit/rail-fare-increases-2019)
@@ -14,6 +17,7 @@
 - [Heathrow noise complaint every five minutes, 2016](https://www.bbc.co.uk/news/uk-england-37803205) & [code](https://onlinejournalismblog.com/2016/11/29/how-the-bbc-england-data-unit-scraped-airport-noise-complaints/)
 - [Ontario's alcohol cheaper than Quebec's (Fr), 2015](https://journalmetro.com/actualites/national/789697/saq-des-centaines-de-produits-moins-chers-en-ontario/)
 - [Are you paying too much rent? (Fr), 2015](https://ici.radio-canada.ca/nouvelle/725385/loyer-abordable-kijiji-annonces-prix-logements-location)
+
 
 **CONTENT**
 
