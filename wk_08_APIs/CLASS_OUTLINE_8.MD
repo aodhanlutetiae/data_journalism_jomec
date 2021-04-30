@@ -70,6 +70,7 @@
 
 — See also
 - [List of UK government APIs (some public, some private)](https://www.api.gov.uk/index/#index)
+- [Another list of UK government APIs](https://medium.com/@mcraddock/gov-uk-apis-92a0bcb8a23d)
 - [Open Notify (ISS)](http://open-notify.org/Open-Notify-API/)
 - [Star Wars](https://swapi.dev/)
 - [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/)
