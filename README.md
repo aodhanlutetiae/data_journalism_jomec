@@ -30,7 +30,7 @@ Data journalism at its broadest sees any information in a digitised form as a po
 **Course resources**
 
 - [Reading list](https://dj-reading.readthedocs.io/en/latest/#)
-- [List of random datasets](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
+- [List of random datasets](https://aodhanlutetiae.github.io/j_book/intro.html)
 - [Quite a few Python tutorials, thanks to Datacamp](https://learn.datacamp.com/search?q=python)
 
 **Licence**
