@@ -6,7 +6,7 @@ This is the material and weekly structure for the Data Journalism module taught 
 
 **Description**
 
-Data journalism at its broadest sees any information in a digitised form as a potential journalistic resource. Digging for this information with computerised tools and supplementing it with traditional journalistic methods is the task of the data journalist. Stories are generated when imagination and curiosity are combined with numerical and technical skills; this module will see students apply technology to journalistic questions and begin to produce a portfolio of work.
+Data journalism at its broadest sees any information in a digitised form as a potential journalistic resource. Digging for this information with computerised tools and supplementing it with traditional journalistic methods is the task of the data journalist. Stories are generated when imagination and curiosity are combined with numerical and technical skills; this module sees students apply technology to journalistic questions and begin to produce a portfolio of work.
 
 **Course outline**
 

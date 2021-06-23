@@ -74,6 +74,7 @@
 - [Open Notify (ISS)](http://open-notify.org/Open-Notify-API/)
 - [Star Wars](https://swapi.dev/)
 - [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/)
+- [Data commons](https://docs.datacommons.org/api/)
 
 **RESOURCES**
 
