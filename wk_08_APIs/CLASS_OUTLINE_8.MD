@@ -51,6 +51,7 @@
 
 — APIs requiring keys
 - [Companies House](https://developer.company-information.service.gov.uk/api/docs/)
+- [Europeana](https://pro.europeana.eu/page/apis)
 - [Facebook ad library (extra authentication)](https://www.facebook.com/ads/library/api)
 - [FEC (US)](https://api.open.fec.gov/developers/#/candidate/get_candidates_)
 - [Guardian](https://open-platform.theguardian.com/access/)
