@@ -9,7 +9,7 @@ Read
 
 - Official Secrets Act 1989
 - Computer Misuse Act 1990
-- Data Protection Act 2018 (& GDPR 2016)
+- Data Protection Act 2018, GDPR 2016 & PECR
 - Defamation, Elections, Copyright
 - Ethical frameworks for journalism
 - News writing
