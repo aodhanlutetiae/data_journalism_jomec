@@ -1,10 +1,10 @@
 **PREPARATORY WORK**
 
 — Do
-- Set up a Flourish account
+- Set up a Flourish account and an [Ordnance Survey](https://osdatahub.os.uk/docs) account
 - Get Tableau running (Desktop or Public)
 - Get Carto login (via github education)
-- Install QGIS 3.10
+- Install QGIS 3.20
 
 — Read
 - [Ericson, Matthew. When maps shouldn’t be maps. 2011](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/ )
@@ -18,7 +18,7 @@
 - Administrative boundaries in Wales
 - Googlemaps, OSM, Datawrapper, Flourish
 - Carto, Mapbox
-- Tableau, QGIS
+- Tableau, QGIS & OS API
 - Python mapping modules: geopandas, folium, mplleaflet
 
 **PRACTICE**
