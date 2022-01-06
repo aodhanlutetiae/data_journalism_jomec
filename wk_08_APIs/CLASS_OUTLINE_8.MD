@@ -28,6 +28,7 @@
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [Chargepoint Registry UK](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
+- [Common crawl (web scrapers)](http://index.commoncrawl.org/)
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
 - [Election candidates data UK](https://candidates.democracyclub.org.uk/api/docs/next/)
 - [Food hygiene UK (XML only)](https://www.food.gov.uk/uk-food-hygiene-rating-data-api)
@@ -39,6 +40,7 @@
 - [Parliamentary committees API](https://committees-api.parliament.uk/index.html)
 - [Police UK](https://data.police.uk/docs/)
 - [Postcodes UK](https://postcodes.io/)
+- [Postcodes lookup UK](https://findthatpostcode.uk/#api)
 - [Stats Wales](https://statswales.gov.wales/Help/Catalogue#APIEndpointsExplained)
 - [US Press Freedom Tracker](https://pressfreedomtracker.us/data/)
 - [Weather](https://open-meteo.com/en/docs)
@@ -46,6 +48,7 @@
 - [Wikipedia page views](https://wikimedia.org/api/rest_v1/#/)
 
 — APIs requiring keys
+- [Charity Base](https://charitybase.uk/docs)
 - [Companies House](https://developer.company-information.service.gov.uk/api/docs/)
 - [Europeana](https://pro.europeana.eu/page/apis)
 - [Facebook ad library (extra authentication)](https://www.facebook.com/ads/library/api)

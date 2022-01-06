@@ -17,10 +17,10 @@
 
 - Visualisation for data exploration
 - Statistical graphs: Histograms, boxplots, the Anscombe graphs (and the datasaurus)
-- Hand-drawn visualisation:[Mona Chalabi's Instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
+- Hand-drawn visualisation: [Mona Chalabi's Instagram](https://www.instagram.com/monachalabi/?hl=en) & [Dear Data](http://www.dear-data.com/theproject)
 - Visualisation Checklist & Visualisation ethics
 - Datawrapper, Flourish, Tableau
-- Python visualisation libraries (matplotlib, pandas, seaborn)
+- Python visualisation libraries (matplotlib, seaborn)
 - Smaller tools: [Knightlab tools](https://knightlab.northwestern.edu/), [Google gifmaker](https://datagifmaker.withgoogle.com/)
 
 [Not covered: log scale axes, some Python libraries (bokeh, plotly, pygal), networks and graph theory]

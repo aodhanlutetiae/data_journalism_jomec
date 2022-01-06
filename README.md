@@ -36,3 +36,6 @@ Data journalism at its broadest sees any information in a digitised form as a po
 **Licence**
 
 - [Creative Commons Attribution 4.0 International](https://github.com/aodhanlutetiae/dj2020/blob/master/LICENSE)
+
+**UPDATE**
+The 2021 module is available [here](https://github.com/aodhanlutetiae/dj_2021)
