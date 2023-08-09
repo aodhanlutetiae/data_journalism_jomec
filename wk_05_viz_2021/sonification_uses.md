@@ -1,0 +1,15 @@
+**Examples of data sonification**
+
+- [Data Sonification Archive](https://sonification.design/)
+- [Turning the yield curve into music](https://www.ft.com/content/80269930-40c3-11e9-b896-fe36ec32aece)
+- [Mueller report redactions](https://www.youtube.com/watch?v=SxcF6qUWQOk)
+- [SPD-Umfragetief vertont](https://interaktiv.morgenpost.de/spd-absturz-sound/)
+- [Yemen: Death from above](https://interactive.aljazeera.com/aje/2018/Saudi-Arabia-air-raids-on-Yemen/index.html)
+- [Listen to Wikipedia](http://listen.hatnote.com/)
+- [UK government in sound (twitter thread)](https://twitter.com/GavinFreeguard/status/1202886370617888769)
+- [Musical World Map](https://www.youtube.com/watch?v=F6va6tg62qg)
+- [Noisy City - Brussels](https://noisy-city.jetpack.ai/)
+- [GMS: Hubble Treasure Trove](https://svs.gsfc.nasa.gov/13061)
+- [Seismic activity in Oklahoma](https://revealnews.org/article/listen-to-the-music-of-seismic-activity-in-oklahoma/)
+- [US corporate profits vs weekly wages](https://www.bbc.co.uk/sounds/play/p04dyg99)
+- [Covid deaths in Switzerland](https://www.youtube.com/watch?v=DqfrOPs2pKM)
