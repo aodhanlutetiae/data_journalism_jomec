@@ -1,16 +1,17 @@
 **PREPARATORY WORK**
 
-— Watch Google Sheets introductory video (Electoral Register dataset, December 2021)
+- Watch Google Sheets introductory video (Electoral Register dataset, December 2021)
 
 **DATA CONCEPTS**
 
-- Metadata, CSVs etc, Sheets vs Excel, Tabular data (vs dictionaries or databases), Data types, Spreadsheet tools, functions & calculations
+- Metadata, CSVs etc, Sheets vs Excel, Tabular data (vs dictionaries or databases), Data types, Spreadsheet tools, calculations & functions 
 
-**JOURNALISM BASICS**
+**JOURNALISM**
 
 - Sourcing news, what is news?, editorial line, news agencies, industry accreditation
 
 **STORYTELLING**
+
 How to find a news story in data, from [reading list](https://dj-reading.readthedocs.io/en/latest/#storytelling-with-data):
 - Bradshaw (2019 blogpost)
 - NYT
@@ -21,7 +22,7 @@ How to find a news story in data, from [reading list](https://dj-reading.readthe
 - [Electoral register, Dec 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/elections/electoralregistration/datasets/electoralstatisticsforuk)
 - [Single-use plastic bags in England, 2016-23](https://www.data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)
 
-**READING & WATCHING**
+**HOMEWORK**
 
 None
 
@@ -31,4 +32,4 @@ None
 
 **WORKSHOP**
 
-Workshop: Dataset of [Nobel prize winners](https://public.opendatasoft.com/explore/dataset/nobel-prize-laureates/table/?disjunctive.category) and betting odds for [Peace](https://www.nicerodds.co.uk/nobel-peace-prize) and [Literature](https://www.nicerodds.co.uk/nobel-prize-in-literature) ahead of Nobel prizes
+Dataset of [Nobel prize winners](https://public.opendatasoft.com/explore/dataset/nobel-prize-laureates/table/?disjunctive.category) and betting odds for [Peace](https://www.nicerodds.co.uk/nobel-peace-prize) and [Literature](https://www.nicerodds.co.uk/nobel-prize-in-literature) ahead of Nobel prizes
