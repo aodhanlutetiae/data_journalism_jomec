@@ -1,6 +1,6 @@
 **PREPARATORY WORK**
 
-— Watch Google Sheets introductory video (Electoral Register dataset)
+— Watch Google Sheets introductory video (Electoral Register dataset, December 2021)
 
 **DATA CONCEPTS**
 
@@ -11,7 +11,7 @@
 - Sourcing news, what is news?, editorial line, news agencies, industry accreditation
 
 **STORYTELLING**
-From [reading list](https://dj-reading.readthedocs.io/en/latest/#storytelling-with-data):
+How to find a news story in data, from [reading list](https://dj-reading.readthedocs.io/en/latest/#storytelling-with-data):
 - Bradshaw (2019 blogpost)
 - NYT
 - Bastien
@@ -23,6 +23,12 @@ From [reading list](https://dj-reading.readthedocs.io/en/latest/#storytelling-wi
 
 **READING & WATCHING**
 
-Harford, Tim. "Ponder your personal experience". *How to make the world add up. Ten rules for thinking differently about numbers*. Bridge Street Press, 2020.
+None
 
-[Pilhofer, Aron. Getting started with datajournalism. 2017. 40’ Video](https://www.youtube.com/watch?v=DYzDnufwHNE)
+<!-- Harford, Tim. "Ponder your personal experience". *How to make the world add up. Ten rules for thinking differently about numbers*. Bridge Street Press, 2020.
+
+[Pilhofer, Aron. Getting started with datajournalism. 2017. 40’ Video](https://www.youtube.com/watch?v=DYzDnufwHNE) -->
+
+**WORKSHOP**
+
+Workshop: Dataset of [Nobel prize winners](https://public.opendatasoft.com/explore/dataset/nobel-prize-laureates/table/?disjunctive.category) and betting odds for [Peace](https://www.nicerodds.co.uk/nobel-peace-prize) and [Literature](https://www.nicerodds.co.uk/nobel-prize-in-literature) ahead of Nobel prizes
