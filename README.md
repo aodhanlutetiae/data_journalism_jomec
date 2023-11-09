@@ -12,23 +12,22 @@ Data journalism at its broadest sees any information in a digitised form as a po
 
 Course outline
 
-    Week 1 — Finding stories in spreadsheets
-    Week 2 — Finding stories in spreadsheets
-    Week 3 — Getting data
-    Week 4 — Using numbers
-    Week 5 — Visualising data
+    Week 1 — Stories in spreadsheets & sourcing news
+    Week 2 — Stories in spreadsheets & writing news
+    Week 3 — Getting data & FOI
+    Week 4 — Using numbers & journalism codes
+    Week 5 — Visualising data & subediting
     Week 6 — Mapping data
-    Week 7 — Production
-    Week 8 — Pandas for data analysis
-    Week 9 — Scraping data
-    Week 10 — APIs
-    Week 11 — Legal & ethical
-    Week 12 — Production final
-    Week xx - NLP
+    Week 7 — Pandas & interviewing
+    Week 8 — Scraping & newslines
+    Week 9 — APIs & press conferences
+    Week 10 — Legal & feature writing
+    Week 11 — NLP
+    Week 12 — Production
 
 **Course resources**
 
-- [Reading list](https://dj-reading.readthedocs.io/en/latest/#)
+- [Reading list](https://data-journalism-reading.readthedocs.io/en/latest/index.html)
 - [List of random datasets](https://aodhanlutetiae.github.io/j_book/intro.html)
 
 **Licence**

@@ -1,6 +1,7 @@
 **APIs**
 
 <!-- https://www.wikidata.org/wiki/Wikidata:REST_API -->
+<!-- https://developers.google.com/fact-check/tools/api -->
 
 — APIs without keys
 - [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
@@ -20,7 +21,8 @@
 - [Formula One results since 1950](https://ergast.com/mrd/db/#csv)
 - [Hansard](https://api.parliament.uk/historic-hansard/api)
 - [Ministry of Housing, communities & local govt](https://opendatacommunities.org/help?tab=api)
-- [ONS (beta)](https://developer.ons.gov.uk/)
+- [ONS (beta)](https://api.beta.ons.gov.uk/v1) 
+<!-- https://developer.ons.gov.uk/ -->
 - [Parliament UK APIs](https://developer.parliament.uk/)
 - [Parliamentary committees API](https://committees-api.parliament.uk/index.html)
 - [Police UK](https://data.police.uk/docs/)
@@ -41,7 +43,7 @@
 - [FEC (US)](https://api.open.fec.gov/developers/#/candidate/get_candidates_)
 - [Fullfact (needs permission)](https://api.fullfact.org/content/documentation#/)
 - [Global Fishing Watch](https://globalfishingwatch.org/our-apis/)
-- [Guardian](https://open-platform.theguardian.com/access/)
+- [Guardian](https://open-platform.theguardian.com/access/) & [explorer](https://open-platform.theguardian.com/explore/)
 - [Hansard via theyworkforyou](https://www.theyworkforyou.com/api/getHansard)
 - [Land registry](https://use-land-property-data.service.gov.uk/api-information)
 - [Met office UK](https://www.metoffice.gov.uk/services/data/datapoint)

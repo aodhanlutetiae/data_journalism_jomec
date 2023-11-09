@@ -15,3 +15,4 @@
 - See Harlow, and Smith, on the [reading list](https://dj-reading.readthedocs.io/en/latest/#scraping-apis)
 - See api_list_2022 in this repo
 - [Yin, Leon. Finding undocumented APIs. 2023](https://inspectelement.org/apis.html#tutorial)
+- [Build your own API to serve data](https://aeturrell.com/blog/posts/build-a-cloud-api/build-a-cloud-api.html)

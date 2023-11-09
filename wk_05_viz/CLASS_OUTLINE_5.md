@@ -1,12 +1,26 @@
-**CONTENT**
+**PREPARATORY WORK**
 
-<!-- Add ONS 'how to choose a chart' by Rob Fry
-https://digitalblog.ons.gov.uk/2016/08/03/in-a-relationship-its-complicated/
- -->
-- Reasons for visualisation: 1. exploration 2. communication
-- Tools with computers
-- Basic chart plotting with Pandas
-- Hand drawn visualisation & comics
-- Sonification
-- Visualisation ethics
-- Writing and subbing news copy
+- Get Datawrapper and Flourish accounts
+
+**DATA**
+
+- Register of journalists' interests
+- Space launches by country
+
+**PRACTICE**
+
+- Bar charts, donut charts, line charts: in Sheets
+
+**JOURNALISM**
+
+- Subediting lecture
+- NYT copy editing quiz
+- Style guides
+
+**HOMEWORK**
+
+- Make one of today's charts in Datawrapper or Flourish
+
+**WORKSHOP**
+
+- Allotments part 2: investigate greenpeace FOI data for UK
