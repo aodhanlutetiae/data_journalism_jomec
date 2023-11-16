@@ -1,3 +1,7 @@
+[Add undocumented apis scrape this week or next](https://inspectelement.org/apis.html#tutorial)
+
+<!-- good example for collecing JSON calls: https://gisportal.istat.it/mapparischi/index.html -->
+
 **CONTENT**
 
 - Technical aspects: requests library, dictionaries

@@ -2,18 +2,16 @@
 
 - Import the pandas library and open a csv file in a notebook
 
-**DATA CONCEPTS**
-
-
 **JOURNALISM**
 - How to interview
+-- Bid early; plan alternative interviewees; phone then email; who wants to be interviewed?; why people turn down interviews
 
 **DATA**
-- Premier League salaries 2023-24
+- [Premier League salaries 2023-24](https://www.capology.com/uk/premier-league/salaries/)
+- [Ministers meeting & lobbying](https://openaccess.transparency.org.uk/)
 
 **HOMEWORK**
-
-
+- Import Beautiful Soup and Requests libraries
 
 **WORKSHOP**
 
@@ -21,4 +19,4 @@
 
 **SPEAKER**
 
-- ONS
+- ONS (Friday, 9am)
