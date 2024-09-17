@@ -2,9 +2,9 @@
 
 Data Journalism | JOMEC
 
-version 2023-24
+version 2024-25
 
-This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism in the Autumn semester for the [MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc). The course runs for 12 weeks with a four-hour class and a three-hour workshop every week. The repository is updated each year and shows the material for the course as last taught. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
+This is the material and weekly structure for the Data Journalism module taught at Cardiff University's School of Journalism for the [MSc in Computational & Data Journalism](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc). It runs for 11 weeks with a four-hour class and a three-hour workshop every week. There are also separate classes on UK media law, as part of the module. This repository is updated each year and shows the material for the module as last taught. Questions and observations welcome at odonnella4@cardiff.ac.uk or @aodhanlutetiae.
 
 Description
 
@@ -13,17 +13,16 @@ Data journalism at its broadest sees any information in a digitised form as a po
 Course outline
 
     Week 1 — Stories in spreadsheets & sourcing news
-    Week 2 — Stories in spreadsheets & writing news
+    Week 2 — Stories in spreadsheets & writing news (1)
     Week 3 — Getting data & FOI
     Week 4 — Using numbers & journalism codes
-    Week 5 — Visualising data & subediting
-    Week 6 — Mapping data
+    Week 5 — Visualising (1) & subediting
+    Week 6 — Mapping & writing news (2)
     Week 7 — Pandas & interviewing
-    Week 8 — Scraping & newslines
-    Week 9 — APIs & press conferences
-    Week 10 — Legal & feature writing
-    Week 11 — NLP
-    Week 12 — Production
+    Week 8 — Data law & visualisation (2)
+    Week 9 — Scraping & newslines
+    Week 10 — APIs & press conferences
+    Week 11 — NLP & feature writing
 
 **Course resources**
 

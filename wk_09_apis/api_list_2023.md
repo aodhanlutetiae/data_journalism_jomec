@@ -2,14 +2,17 @@
 
 <!-- https://www.wikidata.org/wiki/Wikidata:REST_API -->
 <!-- https://developers.google.com/fact-check/tools/api -->
+<!-- good example for collecing JSON calls: https://gisportal.istat.it/mapparischi/index.html -->
+
+<!-- — Mapping APIs
+- [Google mapping bundle](https://developers.google.com/maps/documentation)
+- [Open Street Map (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
+- [Mapbox bundle](https://docs.mapbox.com/api/)
+- [Carto bundle](https://carto.com/developers/) -->
 
 — APIs without keys
-- [Bristol council](https://opendata.bristol.gov.uk/api/v1/console/)
 - [Chargepoint Registry UK](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
-- [Climate emergency (UK councils)](https://data.climateemergency.uk/api/)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
-- [Common crawl (web scrapers)](http://index.commoncrawl.org/)
-- [Companies House](https://developer.company-information.service.gov.uk/get-started/)
 - [Covid data from UK govt](https://coronavirus.data.gov.uk/details/developers-guide)
 - [DEFRA APIs](https://environment.data.gov.uk/apiportal)
 - [Document Cloud](https://api.www.documentcloud.org/api/)
@@ -21,8 +24,8 @@
 - [Formula One results since 1950](https://ergast.com/mrd/db/#csv)
 - [Hansard](https://api.parliament.uk/historic-hansard/api)
 - [Ministry of Housing, communities & local govt](https://opendatacommunities.org/help?tab=api)
-- [ONS (beta)](https://api.beta.ons.gov.uk/v1) 
-<!-- https://developer.ons.gov.uk/ -->
+- [Muckrock (FOIA, US)](https://www.muckrock.com/api/)
+- [ONS (beta)](https://api.beta.ons.gov.uk/v1)
 - [Parliament UK APIs](https://developer.parliament.uk/)
 - [Parliamentary committees API](https://committees-api.parliament.uk/index.html)
 - [Police UK](https://data.police.uk/docs/)
@@ -33,7 +36,7 @@
 - [US Press Freedom Tracker](https://pressfreedomtracker.us/data/)
 - [Weather](https://open-meteo.com/en/docs)
 - [Where do I vote? (UK polling stations)](https://wheredoivote.co.uk/api/#)
-- [Wikipedia page views](https://wikimedia.org/api/rest_v1/#/)
+- [Wikipedia page views](https://wikimedia.org/api/rest_v1/)
 
 — APIs requiring keys
 - [Charity Base](https://charitybase.uk/docs)
@@ -52,12 +55,6 @@
 - [Spotify](https://developer.spotify.com/documentation/web-api/)
 - [They work for you](https://www.theyworkforyou.com/api/)
 - [Twitter (extra authentication)](https://developer.twitter.com/en/docs/twitter-api)
-
-<!-- — Mapping APIs
-- [Google mapping bundle](https://developers.google.com/maps/documentation)
-- [Open Street Map (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
-- [Mapbox bundle](https://docs.mapbox.com/api/)
-- [Carto bundle](https://carto.com/developers/) -->
 
 — See also
 - [General purpose list of APIs](https://github.com/public-apis/public-apis)
