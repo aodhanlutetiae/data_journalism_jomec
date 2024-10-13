@@ -22,6 +22,8 @@
 
 [Nottinghamshire county council](https://www.nottinghamshire.gov.uk/council-and-democracy/freedom-of-information/disclosure-log) & [archive](https://www.nottinghamshire.gov.uk/council-and-democracy/freedom-of-information/disclosure-log-archive)
 
+[Ofcom](https://www.ofcom.org.uk/about-ofcom/freedom-of-information/foi-responses/)
+
 [Ofwat 2020](https://www.ofwat.gov.uk/foi/)
 
 [ONS](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/publishedrequests)

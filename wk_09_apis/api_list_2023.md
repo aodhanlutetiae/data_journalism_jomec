@@ -10,6 +10,10 @@
 - [Mapbox bundle](https://docs.mapbox.com/api/)
 - [Carto bundle](https://carto.com/developers/) -->
 
+- NEW?
+- [UK museum data](https://museumdata.uk/using-data/using-data-faqs/)
+- [FIRMS fire data from Nasa](https://firms.modaps.eosdis.nasa.gov/api/)
+
 — APIs without keys
 - [Chargepoint Registry UK](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
