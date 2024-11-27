@@ -12,10 +12,10 @@
 
 In class:
 - Jomec staff page
+- Coventry FOI disclosure logs
 
 Practice for home:
 
-- Coventry FOI disclosure logs
 - Cardiff + Gumtree + bikes
 
 **HOMEWORK**

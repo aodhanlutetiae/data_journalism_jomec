@@ -10,6 +10,8 @@
 
 [Electoral Commission](https://www.electoralcommission.org.uk/freedom-information)
 
+[Gambling Commission](https://www.gamblingcommission.gov.uk/about-us/freedomofinformation)
+
 [Mid-Devon district council](https://www.middevon.gov.uk/your-council/access-to-information/freedom-of-information/foieir-disclosure-logs/) | Response only available on request
 
 [Ministry of Justice, to 2023](https://www.gov.uk/government/collections/freedom-of-information-disclosure-log)

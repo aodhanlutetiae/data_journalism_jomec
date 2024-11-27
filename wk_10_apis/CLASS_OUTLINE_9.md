@@ -4,8 +4,7 @@ None
 
 **JOURNALISM**
 
-- Exercise and Assignment 1 feedback
-- Press conference (Gavin)
+- Press conference (police - member of staff)
 
 **CONTENT**
 
@@ -18,17 +17,16 @@ None
 - [Mining (Global Witness)](https://www.globalwitness.org/en/campaigns/oil-gas-and-mining/myanmarjade/) using OpenCorporates API
 
 **RESOURCES**
-- api_list_2023.md
+- api_list_2024.md
 - [Reading list](https://data-journalism-reading.readthedocs.io/en/latest/scraping.html)
+- [Yin, Leon. Finding undocumented APIs. 2023](https://inspectelement.org/apis.html#tutorial)
 
 <!-- - [CIJ Open Corporates tuto](https://www.youtube.com/watch?v=Ur4pTdrJOTk) -->
-<!-- - [Yin, Leon. Finding undocumented APIs. 2023](https://inspectelement.org/apis.html#tutorial)
-- [Build your own API to serve data](https://aeturrell.com/blog/posts/build-a-cloud-api/build-a-cloud-api.html) -->
+<!-- - [Build your own API to serve data](https://aeturrell.com/blog/posts/build-a-cloud-api/build-a-cloud-api.html) --> -->
 
 **HOMEWORK**
-- Write up presser as articles or key points
+- Write up presser as article or key points
 
 **WORKSHOP**
-[COP curtain raiser ahead of Nov 30 opening]
+Implement an API in a page or app
 
-**LAW (3/3)**

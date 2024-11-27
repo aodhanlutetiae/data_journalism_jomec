@@ -1,19 +1,5 @@
 **APIs**
 
-<!-- https://www.wikidata.org/wiki/Wikidata:REST_API -->
-<!-- https://developers.google.com/fact-check/tools/api -->
-<!-- good example for collecing JSON calls: https://gisportal.istat.it/mapparischi/index.html -->
-
-<!-- — Mapping APIs
-- [Google mapping bundle](https://developers.google.com/maps/documentation)
-- [Open Street Map (read only)](https://wiki.openstreetmap.org/wiki/Overpass_API)
-- [Mapbox bundle](https://docs.mapbox.com/api/)
-- [Carto bundle](https://carto.com/developers/) -->
-
-- NEW?
-- [UK museum data](https://museumdata.uk/using-data/using-data-faqs/)
-- [FIRMS fire data from Nasa](https://firms.modaps.eosdis.nasa.gov/api/)
-
 — APIs without keys
 - [Chargepoint Registry UK](https://chargepoints.dft.gov.uk/api/help) & [Open Charge Map](https://openchargemap.org/site/develop/api)
 - [Committee to Protect Journalists](https://cpj.org/data-api/)
@@ -48,12 +34,14 @@
 - [Europeana](https://pro.europeana.eu/page/apis)
 - [Facebook ad library (extra authentication)](https://www.facebook.com/ads/library/api)
 - [FEC (US)](https://api.open.fec.gov/developers/#/candidate/get_candidates_)
+- [Fire data from Nasa, FIRMS](https://firms.modaps.eosdis.nasa.gov/api/)
 - [Fullfact (needs permission)](https://api.fullfact.org/content/documentation#/)
 - [Global Fishing Watch](https://globalfishingwatch.org/our-apis/)
 - [Guardian](https://open-platform.theguardian.com/access/) & [explorer](https://open-platform.theguardian.com/explore/)
 - [Hansard via theyworkforyou](https://www.theyworkforyou.com/api/getHansard)
 - [Land registry](https://use-land-property-data.service.gov.uk/api-information)
 - [Met office UK](https://www.metoffice.gov.uk/services/data/datapoint)
+- [Museum data UK](https://museumdata.uk/using-data/using-data-faqs/)
 - [NY Times](https://developer.nytimes.com/apis)
 - [Open Corporates (needs permission for free)](https://api.opencorporates.com/)
 - [Spotify](https://developer.spotify.com/documentation/web-api/)

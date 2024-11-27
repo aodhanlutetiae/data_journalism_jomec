@@ -16,7 +16,8 @@
 
 **WORKSHOP**
 
-- [Workshop: Council climate scorecards](https://councilclimatescorecards.uk/)
+- [Workshop: allotment data gathered by Greenpeace in a mass FOI request (2023))
+
 
 **LAW (1/3)**
 

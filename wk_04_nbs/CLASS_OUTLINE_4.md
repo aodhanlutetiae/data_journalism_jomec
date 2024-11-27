@@ -23,4 +23,4 @@
 
 **WORKSHOP**
 
-- In a notebook write a python function that, given a place name, returns information on allotments as a block of prose (using GTSE data on allotments in England)
+- [US election data (historical)](https://www.presidency.ucsb.edu/statistics/elections)

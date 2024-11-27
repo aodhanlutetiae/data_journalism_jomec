@@ -23,4 +23,5 @@
 
 **WORKSHOP**
 
-- Allotments part 2: investigate greenpeace FOI data for UK
+- Visualise housing data with [rental data](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/privaterentalaffordabilityengland)
+and [house building](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ukhousebuildingpermanentdwellingsstartedandcompleted)

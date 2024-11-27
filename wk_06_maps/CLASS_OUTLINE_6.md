@@ -22,7 +22,7 @@
 
 **WORKSHOP**
 
-- Following the [FT piece](https://www.ft.com/content/41ab1a66-c8fc-44b1-8cf6-3b916a97ec08), produce a story from [Census 2021 'origin - destination data'](https://www.nomisweb.co.uk/sources/census_2021_od)
+- COP 29 curtain raiser
 
 **LAW (2/3)**
 
