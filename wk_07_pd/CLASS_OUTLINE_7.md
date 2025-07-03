@@ -16,7 +16,3 @@
 **WORKSHOP**
 
 - [UK arms licences for export](https://github.com/caatdata/uk-arms-export-data)
-
-**SPEAKER**
-
-- ONS (Friday, 9am)

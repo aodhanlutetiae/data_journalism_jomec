@@ -21,9 +21,6 @@ None
 - [Yin, Leon. Finding undocumented APIs. 2023](https://inspectelement.org/apis.html#tutorial)
 - [Undocumented APIs](https://inspectelement.org/apis.html#tutorial)
 
-<!-- - [CIJ Open Corporates tuto](https://www.youtube.com/watch?v=Ur4pTdrJOTk) -->
-<!-- - [Build your own API to serve data](https://aeturrell.com/blog/posts/build-a-cloud-api/build-a-cloud-api.html) --> -->
-
 **HOMEWORK**
 - Write up presser as article or key points
 

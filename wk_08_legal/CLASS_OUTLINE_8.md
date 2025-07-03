@@ -23,7 +23,6 @@ https://docs.google.com/forms/d/1-8Ics9A-WiKiO2SO7ochYSkUBnBNTjDAAEjrX2lk4Q4/edi
 Data work
 https://ico.org.uk/action-weve-taken/data-security-incident-trends/ -->
 
-
 **WORKSHOP**
 Free for all: worked on data journalism assignment two and Web Dev assignment one
 

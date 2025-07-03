@@ -16,8 +16,7 @@
 
 **WORKSHOP**
 
-- [Workshop: allotment data gathered by Greenpeace in a mass FOI request (2023))
-
+- Workshop: allotment data gathered by Greenpeace in a mass FOI request (2023))
 
 **LAW (1/3)**
 
