@@ -12,6 +12,8 @@
 
 [Gambling Commission](https://www.gamblingcommission.gov.uk/about-us/freedomofinformation)
 
+[Land registry](https://www.gov.uk/search/transparency-and-freedom-of-information-releases?content_store_document_type=foi_release&organisations%5B%5D=land-registry)
+
 [Mid-Devon district council](https://www.middevon.gov.uk/your-council/access-to-information/freedom-of-information/foieir-disclosure-logs/) | Response only available on request
 
 [Ministry of Justice, to 2023](https://www.gov.uk/government/collections/freedom-of-information-disclosure-log)

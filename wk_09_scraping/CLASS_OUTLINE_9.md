@@ -1,6 +1,6 @@
 **PREPARATORY WORK**
 
-- Import the Beautiful Soup and Requests libraries
+- Import the Beautiful Soup, Requests and Playwright libraries
 
 **JOURNALISM**
 
