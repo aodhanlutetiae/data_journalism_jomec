@@ -42,4 +42,6 @@
 
 [Swansea University](https://www.swansea.ac.uk/about-us/compliance/freedom-of-information-/disclosure-log/) | Response only available on request
 
+[Welsh government](https://www.gov.wales/publications?keywords=&All_=All&publication_type%5B3%5D=3&published_after=&published_before=&page=0)
+
 [York city council](https://www.york.gov.uk/FOIDisclosureLog) | Response only available on request
