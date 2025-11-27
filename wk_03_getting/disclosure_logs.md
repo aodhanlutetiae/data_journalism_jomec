@@ -16,6 +16,8 @@
 
 [Mid-Devon district council](https://www.middevon.gov.uk/your-council/access-to-information/freedom-of-information/foieir-disclosure-logs/) | Response only available on request
 
+[Ministry of Defence](https://www.gov.uk/government/collections/foi-responses-released-by-the-ministry-of-defence-2025)
+
 [Ministry of Justice, to 2023](https://www.gov.uk/government/collections/freedom-of-information-disclosure-log)
 
 [National Archives](https://www.nationalarchives.gov.uk/about/freedom-of-information/information-requests/)

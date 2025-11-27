@@ -1,6 +1,6 @@
 **PREPARATORY WORK**
 
-- Import the Beautiful Soup, Requests and Playwright libraries
+- Import Beautiful Soup, Requests and Playwright libraries
 
 **JOURNALISM**
 
@@ -45,5 +45,6 @@ Practice for home:
 **RESOURCES**
 
 - [Freecodecamp course on beautiful soup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/)
+
 - [Datacamp course on xpath and scrapy](https://learn.datacamp.com/courses/web-scraping-with-python)
 
