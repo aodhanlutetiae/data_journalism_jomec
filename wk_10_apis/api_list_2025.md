@@ -61,3 +61,4 @@
 - [Weather](https://open-meteo.com/en/docs)
 - [Weather](https://pirateweather.net)
 - [Weather](https://www.weatherapi.com)
+- [Youtube](https://developers.google.com/youtube/v3/getting-started)
